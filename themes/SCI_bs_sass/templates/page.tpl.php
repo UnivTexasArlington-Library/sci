@@ -86,14 +86,17 @@
         <a class="name navbar-brand" href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>"><?php print $site_name; ?></a>
       <?php endif; ?>
 
-      <?php if (!empty($primary_nav) || !empty($secondary_nav) || !empty($page['navigation'])): ?>
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+      <?php //if (!empty($primary_nav) || !empty($secondary_nav) || !empty($page['navigation'])): ?>
+       <!--
+	   <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
           <span class="sr-only"><?php print t('Toggle navigation'); ?></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-      <?php endif; ?>
+		-->
+      <?php //endif; ?>
+	 
     </div>
 
     <?php if (!empty($primary_nav) || !empty($secondary_nav) || !empty($page['navigation'])): ?>
