@@ -5882,7 +5882,7 @@ body {
   padding: 0;
   width: auto; }
 
-#navbar, .navbar-default {
+header, .navbar-default {
   background-color: #0a2842; }
 
 #overlay-container,
