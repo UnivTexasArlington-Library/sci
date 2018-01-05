@@ -16,7 +16,7 @@ $sci-dark: #0a2842 !default;
 //increase default max-width for large screens
 @media (min-width: 1200px) {
 	.container {
-		width: 1900px;
+		max-width: 1900px;
 		}
 	}
 
