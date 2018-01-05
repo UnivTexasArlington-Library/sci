@@ -10,6 +10,8 @@ $grid-breakpoint:     "screen and (min-width: #{$grid-float-breakpoint})";
      -moz-box-shadow: $shadow;
           box-shadow: $shadow;
 }
+//SCI colors
+$sci-dark: #00447c !default;
 
 html {
   &.overlay-open .navbar-fixed-top {
@@ -129,6 +131,8 @@ body {
     width: auto;
   }
 }
+
+.navbar-default {background-color: $sci-dark;}
 
 // Adjust z-index of core components.
 #overlay-container,

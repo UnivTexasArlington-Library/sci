@@ -5882,6 +5882,9 @@ body {
   padding: 0;
   width: auto; }
 
+.navbar-default {
+  background-color: #00447c; }
+
 #overlay-container,
 .overlay-modal-background,
 .overlay-element {
