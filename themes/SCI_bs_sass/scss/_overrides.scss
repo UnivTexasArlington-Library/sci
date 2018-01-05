@@ -14,7 +14,11 @@ $grid-breakpoint:     "screen and (min-width: #{$grid-float-breakpoint})";
 $sci-dark: #0a2842 !default;
 
 //increase default max-width for large screens
-$container-large-desktop:      (1830px + $grid-gutter-width) !default;
+@media (min-width: 1900px) {
+	.container {
+		width: 1900px;
+		}
+	}
 
 html {
   &.overlay-open .navbar-fixed-top {
