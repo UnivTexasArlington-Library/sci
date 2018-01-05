@@ -13,7 +13,6 @@ $grid-breakpoint:     "screen and (min-width: #{$grid-float-breakpoint})";
 //SCI colors
 $sci-dark: #0a2842 !default;
 
-<<<<<<< HEAD
 //increase default max-width for large screens
 @media (min-width: 1200px) {
 	.container {
@@ -21,8 +20,6 @@ $sci-dark: #0a2842 !default;
 		}
 	}
 
-=======
->>>>>>> parent of a0c2e85... update container width css
 html {
   &.overlay-open .navbar-fixed-top {
     z-index: 400;
