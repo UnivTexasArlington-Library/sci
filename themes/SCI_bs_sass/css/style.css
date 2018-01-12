@@ -5888,6 +5888,10 @@ body {
 header, .navbar-default {
   background-color: #0a2842; }
 
+header#navbar {
+  max-width: 100%;
+  width: 100%; }
+
 #overlay-container,
 .overlay-modal-background,
 .overlay-element {
