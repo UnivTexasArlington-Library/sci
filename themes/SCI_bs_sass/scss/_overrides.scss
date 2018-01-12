@@ -140,6 +140,7 @@ body {
 }
 
 header, .navbar-default {background-color: $sci-dark;}
+header#navbar {max-width:100%;width:100%;}
 
 // Adjust z-index of core components.
 #overlay-container,
