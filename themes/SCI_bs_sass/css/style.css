@@ -5876,7 +5876,7 @@ body {
   .navbar.container {
     max-width: 1840px; } }
 .navbar.container, .navbar.container-fluid {
-  margin-top: 20px; }
+  margin-top: 0; }
 .navbar.container > .container, .navbar.container-fluid > .container-fluid {
   margin: 0;
   padding: 0;
