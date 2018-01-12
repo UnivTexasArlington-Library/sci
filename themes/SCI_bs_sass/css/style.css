@@ -5808,9 +5808,6 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
-@media (min-width: 1200px) {
-  .container {
-    max-width: 1900px; } }
 html.overlay-open .navbar-fixed-top {
   z-index: 400; }
 html.js fieldset.collapsed {
