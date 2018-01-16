@@ -81,6 +81,7 @@
           <img src="<?php print $logo; ?>" alt="<?php print t('Home'); ?>" />
         </a>
       <?php endif; ?>
+	  </div>
 
       <?php if (!empty($site_name)): ?>
          <a class="name navbar-brand" href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>"><p style="text-transform: uppercase;">archive<br />
@@ -96,7 +97,7 @@
           <span class="icon-bar"></span>
         </button>
       <?php endif; ?>
-    </div>
+    <!--</div>-->
 
     <?php if (!empty($primary_nav) || !empty($secondary_nav) || !empty($page['navigation'])): ?>
       <div class="navbar-collapse collapse" id="navbar-collapse">
