@@ -5898,7 +5898,7 @@ body {
   float: none; }
 
 .navbar-header a.logo img {
-  max-width: 220px; }
+  max-width: 200px; }
 
 section#block-superfish-1 {
   float: left; }
@@ -5917,6 +5917,10 @@ header#navbar {
   max-width: 100%;
   width: 100%;
   padding: 0; }
+
+#libraries-logo img {
+  float: right;
+  max-width: 300px; }
 
 div.region.region-content {
   max-width: 1200px;
