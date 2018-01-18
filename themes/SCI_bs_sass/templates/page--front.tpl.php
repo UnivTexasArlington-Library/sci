@@ -84,7 +84,8 @@
 
       <?php if (!empty($site_name)): ?>
          <a class="name navbar-brand" href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>"><div id="topname">archive</div>
-<div id="bottomname">Society of Composers, Inc.</div></a>
+		<div id="bottomname">Society of Composers, Inc.</div></a>
+		<div><img src="/sci/sites/library-test.uta.edu.sci/files/uta-libraries.gif" /></div>
       <?php endif; ?>
 
       <?php if (!empty($primary_nav) || !empty($secondary_nav) || !empty($page['navigation'])): ?>
