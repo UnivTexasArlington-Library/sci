@@ -5892,7 +5892,9 @@ body {
   font-size: 14px; }
 
 .navbar-default {
-  border: 0;
+  border: 0; }
+
+.navbar-default a {
   color: #fff; }
 
 .navbar-header {
