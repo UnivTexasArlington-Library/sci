@@ -83,8 +83,8 @@
       <?php endif; ?>
 
       <?php if (!empty($site_name)): ?>
-         <a class="name navbar-brand" href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>"><p><span id="topname">archive</span><br />
-<span id="bottomname">Society of Composers, Inc.</span></p></a>
+         <a class="name navbar-brand" href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>"><div id="topname">archive</div>
+<div id="bottomname">Society of Composers, Inc.</div></a>
       <?php endif; ?>
 
       <?php if (!empty($primary_nav) || !empty($secondary_nav) || !empty($page['navigation'])): ?>
