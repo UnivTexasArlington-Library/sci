@@ -139,7 +139,8 @@ body {
 }
 
 // Mods to header and navbar
-#topname {font-size:120%;text-transform:uppercase;}
+#topname {font-size:200%;text-transform:uppercase;border-bottom:1px solid #fff;padding-bottom:10px;}
+#bottomname {font-size: 14px;}
 .navbar-default {border:0;}
 .navbar-header {float:none;}
 .navbar-header a.logo img {max-width:220px;}

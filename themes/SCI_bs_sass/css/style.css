@@ -5883,8 +5883,13 @@ body {
   width: auto; }
 
 #topname {
-  font-size: 120%;
-  text-transform: uppercase; }
+  font-size: 200%;
+  text-transform: uppercase;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 10px; }
+
+#bottomname {
+  font-size: 14px; }
 
 .navbar-default {
   border: 0; }
