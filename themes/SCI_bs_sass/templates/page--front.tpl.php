@@ -77,14 +77,16 @@
   <div class="<?php print $container_class; ?>">
     <div class="navbar-header">
       <?php if ($logo): ?>
+        <a class="logo navbar-btn pull-left" href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>">
           <img src="<?php print $logo; ?>" alt="<?php print t('Home'); ?>" />
+        </a>
       <?php endif; ?>
 
-      
-         <div id="topname">archive</div>
-		<div id="bottomname">Society of Composers, Inc.</div>
-		<div id="libraries-logo"><a href="//library.uta.edu/"><img src="/sci/sites/library-test.uta.edu.sci/files/uta-libraries.gif" /></a></div>
-      
+      <?php if (!empty($site_name)): ?>
+         <a class="name navbar-brand" href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>"><div id="topname">archive</div>
+		<div id="bottomname">Society of Composers, Inc.</div></a>
+		<div id="libraries-logo"><img src="/sci/sites/library-test.uta.edu.sci/files/uta-libraries.gif" /></div>
+      <?php endif; ?>
 
       <?php if (!empty($primary_nav) || !empty($secondary_nav) || !empty($page['navigation'])): ?>
       
