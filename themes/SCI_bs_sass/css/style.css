@@ -5882,6 +5882,9 @@ body {
   padding: 0;
   width: auto; }
 
+.navbar-header {
+  float: none; }
+
 header, .navbar-default {
   background-color: #0a2842; }
 

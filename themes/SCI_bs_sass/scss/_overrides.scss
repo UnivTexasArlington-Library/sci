@@ -138,6 +138,9 @@ body {
   }
 }
 
+// Mods to navbar-header
+.navbar-header {float:none;}
+
 header, .navbar-default {background-color: $sci-dark;}
 header#navbar {max-width:100%;width:100%;}
 
