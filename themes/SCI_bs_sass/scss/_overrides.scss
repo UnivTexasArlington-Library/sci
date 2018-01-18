@@ -18,7 +18,7 @@ $grid-breakpoint:     "screen and (min-width: #{$grid-float-breakpoint})";
 }
 //SCI colors
 $sci-dark: #0a2842 !default;
-$sci-dark-transparent: rgba(10, 40, 66, 0.7);
+$sci-dark-transparent: rgba(10, 40, 66, 0.8);
 
 html {
   &.overlay-open .navbar-fixed-top {
@@ -142,7 +142,7 @@ body {
 // Mods to header and navbar
 #topname {font-size:200%;text-transform:uppercase;border-bottom:1px solid #fff;padding-bottom:10px;}
 #bottomname {font-size: 14px;}
-.navbar-default {border:0;}
+.navbar-default {border:0; color:#fff;}
 .navbar-header {float:none;}
 .navbar-header a.logo img {max-width:200px;}
 section#block-superfish-1 {float:left;}

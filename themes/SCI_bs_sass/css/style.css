@@ -5892,7 +5892,8 @@ body {
   font-size: 14px; }
 
 .navbar-default {
-  border: 0; }
+  border: 0;
+  color: #fff; }
 
 .navbar-header {
   float: none; }
@@ -5911,7 +5912,7 @@ section#block-views-exp-search-page-page {
   max-width: 1200px; }
 
 header, .navbar-default {
-  background-color: rgba(10, 40, 66, 0.7); }
+  background-color: rgba(10, 40, 66, 0.8); }
 
 header#navbar {
   max-width: 100%;
