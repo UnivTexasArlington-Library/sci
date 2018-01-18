@@ -5882,6 +5882,10 @@ body {
   padding: 0;
   width: auto; }
 
+#topname {
+  font-size: 120%;
+  text-transform: uppercase; }
+
 .navbar-default {
   border: 0; }
 
