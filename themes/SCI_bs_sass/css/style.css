@@ -5935,14 +5935,17 @@ header#navbar {
 
 div.region.region-content {
   max-width: 1900px;
-  margin: auto;
-  background-color: #0a2842; }
+  margin: auto; }
 
 div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {
   max-width: 1200px;
   margin: auto;
   background-color: #fff;
   min-height: 600px; }
+
+.pane-about-teaser {
+  background-color: #0a2842;
+  min-height: 400px; }
 
 /*
 .pane-views-exp-search-page-home-page {margin-top: 80%;} 
