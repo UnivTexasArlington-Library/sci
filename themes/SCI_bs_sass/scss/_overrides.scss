@@ -157,7 +157,8 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 .highlighted {max-width:1200px; margin:auto;background-color:transparent;}
 
 // Mods to content area
-div.region.region-content {max-width:1200px; margin:auto;}
+div.region.region-content {max-width:1200px; margin:auto;background-color: $sci-dark;}
+
 
 // Home page search box
 .pane-views-exp-search-page-home-page {margin-top: 80%;} 
