@@ -18,7 +18,7 @@ $grid-breakpoint:     "screen and (min-width: #{$grid-float-breakpoint})";
 }
 //SCI colors
 $sci-dark: #0a2842 !default;
-$sci-light-text: #fff;
+$sci-white: #fff;
 
 
 html {
@@ -156,12 +156,12 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 
 //Mods to highlighted area
 .highlighted {max-width:1200px; margin:auto;background-color:transparent;}
-#block-views-about-teaser-block {color: $sci-light-text;}
+#block-views-about-teaser-block {color: $sci-white;}
 
 // Mods to content area
 div.region.region-content {max-width:1900px; margin:auto;background-color: $sci-dark;margin-top:-300px;}
 #block-system-main > div {margin-top:300px;}
-div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {max-width:1200px; margin:auto;}
+div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {max-width:1200px; margin:auto;background-color:$sci-white;min-height:600px;}
 
 
 // Home page search box
