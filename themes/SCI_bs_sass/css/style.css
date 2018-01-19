@@ -5933,7 +5933,8 @@ header#navbar {
 div.region.region-content {
   max-width: 1900px;
   margin: auto;
-  background-color: #0a2842; }
+  background-color: #0a2842;
+  margin-top: -300px; }
 
 .pane-views-exp-search-page-home-page {
   margin-top: 80%; }
@@ -5943,7 +5944,7 @@ body.front div.panel-col-top {
   margin: auto; }
 
 #block-views-exp-search-page-home-page {
-  margin-top: -13%; }
+  margin-top: 25%; }
 
 #overlay-container,
 .overlay-modal-background,

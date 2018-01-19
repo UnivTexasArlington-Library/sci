@@ -157,13 +157,13 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 .highlighted {max-width:1200px; margin:auto;background-color:transparent;}
 
 // Mods to content area
-div.region.region-content {max-width:1900px; margin:auto;background-color: $sci-dark;}
+div.region.region-content {max-width:1900px; margin:auto;background-color: $sci-dark;margin-top:-300px;}
 
 
 // Home page search box
 .pane-views-exp-search-page-home-page {margin-top: 80%;} 
 body.front div.panel-col-top {max-width:400px;margin:auto;}
-#block-views-exp-search-page-home-page {margin-top: -13%;}
+#block-views-exp-search-page-home-page {margin-top: 25%;}
 
 
 // Adjust z-index of core components.
