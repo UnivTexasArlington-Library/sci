@@ -5932,7 +5932,8 @@ header#navbar {
 
 div.region.region-content {
   max-width: 1200px;
-  margin: auto; }
+  margin: auto;
+  background-color: #0a2842; }
 
 .pane-views-exp-search-page-home-page {
   margin-top: 80%; }
