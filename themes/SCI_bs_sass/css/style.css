@@ -5930,6 +5930,9 @@ header#navbar {
   margin: auto;
   background-color: transparent; }
 
+#block-views-about-teaser-block {
+  color: #fff; }
+
 div.region.region-content {
   max-width: 1900px;
   margin: auto;
