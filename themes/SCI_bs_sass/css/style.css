@@ -5942,6 +5942,10 @@ div.region.region-content {
 #block-system-main > div {
   margin-top: 300px; }
 
+div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {
+  max-width: 1200px;
+  margin: auto; }
+
 .pane-views-exp-search-page-home-page {
   margin-top: 80%; }
 
