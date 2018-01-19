@@ -5929,6 +5929,13 @@ div.region.region-content {
   max-width: 1200px;
   margin: auto; }
 
+.pane-views-exp-search-page-home-page {
+  margin-top: 25%; }
+
+body.front div.panel-col-top {
+  max-width: 400px;
+  margin: auto; }
+
 #overlay-container,
 .overlay-modal-background,
 .overlay-element {
