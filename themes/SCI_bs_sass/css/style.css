@@ -5927,7 +5927,7 @@ header#navbar {
 
 .highlighted {
   max-width: 1200px;
-  margin: auto;
+  margin-top: 350px;
   background-color: transparent; }
 
 #block-views-about-teaser-block {
