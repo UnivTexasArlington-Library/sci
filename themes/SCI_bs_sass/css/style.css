@@ -5936,6 +5936,9 @@ div.region.region-content {
   background-color: #0a2842;
   margin-top: -300px; }
 
+#block-system-main > div {
+  margin-top: 300px; }
+
 .pane-views-exp-search-page-home-page {
   margin-top: 80%; }
 
