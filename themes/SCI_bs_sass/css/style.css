@@ -5944,7 +5944,9 @@ div.region.region-content {
 
 div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {
   max-width: 1200px;
-  margin: auto; }
+  margin: auto;
+  background-color: #fff;
+  min-height: 600px; }
 
 .pane-views-exp-search-page-home-page {
   margin-top: 80%; }
