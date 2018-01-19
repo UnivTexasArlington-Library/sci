@@ -154,7 +154,7 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 #libraries-logo img {float:right;max-width:300px;}
 
 //Mods to highlighted area
-.highlighted {max-width:1200px; margin:auto;}
+.highlighted {max-width:1200px; margin:auto;background-color:transparent;}
 
 // Mods to content area
 div.region.region-content {max-width:1200px; margin:auto;}
@@ -162,6 +162,7 @@ div.region.region-content {max-width:1200px; margin:auto;}
 // Home page search box
 .pane-views-exp-search-page-home-page {margin-top: 80%;} 
 body.front div.panel-col-top {max-width:400px;margin:auto;}
+#block-views-exp-search-page-home-page {margin-top: -13%;}
 
 
 // Adjust z-index of core components.

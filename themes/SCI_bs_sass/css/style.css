@@ -5927,7 +5927,8 @@ header#navbar {
 
 .highlighted {
   max-width: 1200px;
-  margin: auto; }
+  margin: auto;
+  background-color: transparent; }
 
 div.region.region-content {
   max-width: 1200px;
@@ -5939,6 +5940,9 @@ div.region.region-content {
 body.front div.panel-col-top {
   max-width: 400px;
   margin: auto; }
+
+#block-views-exp-search-page-home-page {
+  margin-top: -13%; }
 
 #overlay-container,
 .overlay-modal-background,
