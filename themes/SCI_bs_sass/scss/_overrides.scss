@@ -154,9 +154,12 @@ header, .navbar-default {background-color: $sci-dark;}
 header#navbar {max-width:1900px;width:100%;padding:0;}
 #libraries-logo img {float:right;max-width:300px;}
 
-//Mods to highlighted area
+// Mods to highlighted area
 .highlighted {max-width:1200px; margin-top:350px;background-color:transparent;}
 #block-views-about-teaser-block {color: $sci-white;}
+
+// Mods to about teaser
+.view-about-teaser {color: $sci-white;max-width:1200px;margin:20px auto;}
 
 // Mods to content area
 div.region.region-content {max-width:1900px; margin:auto;}

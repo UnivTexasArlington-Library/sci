@@ -5933,6 +5933,11 @@ header#navbar {
 #block-views-about-teaser-block {
   color: #fff; }
 
+.view-about-teaser {
+  color: #fff;
+  max-width: 1200px;
+  margin: 20px auto; }
+
 div.region.region-content {
   max-width: 1900px;
   margin: auto; }
