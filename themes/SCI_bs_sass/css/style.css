@@ -5977,7 +5977,7 @@ footer.footer {
   max-width: 1200px;
   background-color: #fff; }
 
-.bottom-image img {
+#bottom-image img {
   max-width: 190px;
   position: relative;
   top: -250px;
