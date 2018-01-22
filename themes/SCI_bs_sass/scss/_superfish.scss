@@ -41,7 +41,8 @@
 }
 .sf-menu.sf-style-none li,
 .sf-menu.sf-style-none.sf-navbar {
-  background: #095cb1;
+ /* background: #095cb1; */
+  background: $sci-dark;
 }
 .sf-menu.sf-style-none li li {
   background: #0151a4;
@@ -66,7 +67,8 @@
   background-color: transparent;
 }
 div.sf-accordion-toggle.sf-style-none a {
-  background: #095cb1;
+ /* background: #095cb1; */
+  background: $sci-dark;
   border: 1px outset #003973;
   color: #ffffff;
   padding: 1em;
