@@ -17,8 +17,9 @@ $grid-breakpoint:     "screen and (min-width: #{$grid-float-breakpoint})";
           box-shadow: $shadow;
 }
 //SCI colors
-$sci-dark: #0a2842 !default;
+$sci-dark: #092a45 !default;
 $sci-white: #fff;
+$sci-bg: #e8e8e8;
 
 
 html {
@@ -139,6 +140,9 @@ body {
     width: auto;
   }
 }
+
+// Mods to body
+body {background-color: $sci-bg;}
 
 // Mods to header and navbar
 #topname {font-size:200%;text-transform:uppercase;border-bottom:1px solid #fff;padding-bottom:10px;}
