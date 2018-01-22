@@ -5967,6 +5967,11 @@ div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {
 #block-system-main img {
   margin: auto; }
 
+#block-system-main > div > div.panel-panel.panel-col-bottom {
+  max-width: 900px;
+  margin: auto;
+  text-align: center; }
+
 footer.footer {
   padding: 1% 0 1% 11%;
   max-width: 1200px;

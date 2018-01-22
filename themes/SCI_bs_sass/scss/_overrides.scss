@@ -173,6 +173,9 @@ div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {max-width:1
 .pane-about-teaser {background-color: $sci-dark;min-height:360px;}
 #block-system-main img {margin:auto;}
 
+// Mods to home page slogan
+#block-system-main > div > div.panel-panel.panel-col-bottom {max-width:900px;margin:auto;text-align:center;}
+
 // Mods to footer
 footer.footer {padding:1% 0 1% 11%;max-width:1200px;background-color:$sci-white;}
 
