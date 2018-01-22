@@ -5961,9 +5961,7 @@ div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {
   background-color: #0a2842;
   min-height: 360px; }
 
-#block-system-main div.inside {
-  margin: auto; }
-
+/*#block-system-main div.inside  {margin:auto;}*/
 /*
 .pane-views-exp-search-page-home-page {margin-top: 80%;} 
 body.front div.panel-col-top {max-width:400px;margin:auto;}
