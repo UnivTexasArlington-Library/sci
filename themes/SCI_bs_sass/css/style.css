@@ -5977,6 +5977,12 @@ footer.footer {
   max-width: 1200px;
   background-color: #fff; }
 
+.bottom-image {
+  max-width: 190px;
+  position: relative;
+  top: -250px;
+  left: 80%; }
+
 #overlay-container,
 .overlay-modal-background,
 .overlay-element {
