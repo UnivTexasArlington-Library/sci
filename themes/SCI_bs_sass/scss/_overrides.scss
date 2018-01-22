@@ -173,13 +173,11 @@ div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {max-width:1
 .pane-about-teaser {background-color: $sci-dark;min-height:360px;}
 #block-system-main img {margin:auto;}
 
+// Mods to footer
+footer.footer {padding:1% 0 1% 11%;max-width:1200px;background-color:$sci-bg;}
 
-// Home page search box
-/*
-.pane-views-exp-search-page-home-page {margin-top: 80%;} 
-body.front div.panel-col-top {max-width:400px;margin:auto;}
-#block-views-exp-search-page-home-page {margin-top: 25%;}
-*/
+
+
 
 // Adjust z-index of core components.
 #overlay-container,

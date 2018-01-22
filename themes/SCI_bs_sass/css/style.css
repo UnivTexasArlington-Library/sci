@@ -5967,11 +5967,11 @@ div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {
 #block-system-main img {
   margin: auto; }
 
-/*
-.pane-views-exp-search-page-home-page {margin-top: 80%;} 
-body.front div.panel-col-top {max-width:400px;margin:auto;}
-#block-views-exp-search-page-home-page {margin-top: 25%;}
-*/
+footer.footer {
+  padding: 1% 0 1% 11%;
+  max-width: 1200px;
+  background-color: #e8e8e8; }
+
 #overlay-container,
 .overlay-modal-background,
 .overlay-element {
