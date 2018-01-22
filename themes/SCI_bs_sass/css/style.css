@@ -5977,11 +5977,6 @@ footer.footer {
   max-width: 1200px;
   background-color: #fff; }
 
-footer {
-  background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/headphones.png");
-  background-repeat: no-repeat;
-  background-position: right bottom; }
-
 #overlay-container,
 .overlay-modal-background,
 .overlay-element {

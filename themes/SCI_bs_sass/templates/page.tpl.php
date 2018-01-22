@@ -171,5 +171,5 @@
   <footer class="footer <?php print $container_class; ?>">
     <?php print render($page['footer']); ?>
   </footer>
-  <div id="bottom-image"><img src="/sci/sites/library-test.uta.edu.sci/files/headphone.png" /></div>
+  <div id="bottom-image"><img src="/sci/sites/library-test.uta.edu.sci/files/headphones.png" /></div>
 <?php endif; ?>
