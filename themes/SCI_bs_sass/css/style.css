@@ -5967,7 +5967,7 @@ div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {
 #block-system-main img {
   margin: auto; }
 
-#block-system-main > div > div.panel-panel.panel-col-bottom {
+div.panel-col-bottom {
   max-width: 900px;
   margin: auto;
   text-align: center; }
