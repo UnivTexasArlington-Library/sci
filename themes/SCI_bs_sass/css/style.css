@@ -5938,6 +5938,9 @@ header#navbar {
   max-width: 1200px;
   margin: 20px auto; }
 
+div.view-about-teaser.view-content {
+  margin: 20px 0; }
+
 div.region.region-content {
   max-width: 1900px;
   margin: auto; }
