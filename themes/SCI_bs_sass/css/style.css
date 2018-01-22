@@ -6605,7 +6605,7 @@ a.icon-after .glyphicon {
 .sf-menu.sf-style-none li,
 .sf-menu.sf-style-none.sf-navbar {
   /* background: #095cb1; */
-  background: #092a45; }
+  background: transparent; }
 
 .sf-menu.sf-style-none li li {
   background: #0151a4; }
@@ -6631,7 +6631,7 @@ a.icon-after .glyphicon {
 
 div.sf-accordion-toggle.sf-style-none a {
   /* background: #095cb1; */
-  background: #092a45;
+  background: transparent;
   border: 1px outset #003973;
   color: #ffffff;
   padding: 1em; }
