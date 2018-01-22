@@ -5981,7 +5981,8 @@ footer.footer {
   max-width: 190px;
   position: relative;
   top: -250px;
-  left: 80%; }
+  left: 80%;
+  z-index: -1; }
 
 #overlay-container,
 .overlay-modal-background,
