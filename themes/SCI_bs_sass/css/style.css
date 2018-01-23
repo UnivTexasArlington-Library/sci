@@ -6636,7 +6636,7 @@ a.icon-after .glyphicon {
   background: transparent;
   color: #F37758; }
 
-a.active {
+a.sf-depth-1 active {
   border-bottom: #fff; }
 
 .sf-menu.sf-style-none.sf-navbar li ul {
