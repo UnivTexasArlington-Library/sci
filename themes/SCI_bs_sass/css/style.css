@@ -5961,6 +5961,10 @@ header#navbar {
   max-width: 800px;
   margin: auto; }
 
+edit-search-api-views-fulltext-wrapper {
+  width: 726px;
+  padding-top: 5px; }
+
 .highlighted {
   margin-top: 350px;
   background-color: transparent; }
