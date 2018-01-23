@@ -149,7 +149,7 @@ body {background-color: $sci-bg;}
 #bottomname {font-size: 14px;}
 .navbar-default {border:0;}
 .navbar-default .navbar-brand {color:#fff;}
-.navbar-header {float:none;}
+.navbar-header {float:none;margin-bottom:15px;}
 .navbar-header a.logo img {max-width:200px;}
 section#block-superfish-1 {float:left;}
 section#block-views-exp-search-page-page {float:right;}
@@ -157,6 +157,10 @@ section#block-views-exp-search-page-page {float:right;}
 header, .navbar-default {background-color: $sci-dark;}
 header#navbar {max-width:1900px;width:100%;padding:0;}
 #libraries-logo img {float:right;max-width:300px;}
+
+// Mods to search boxes, buttons
+#edit-submit-search-page {margin-top:-5px;margin-left:-18px;}
+#edit-search-api-views-fulltext {margin-top:-5px;}
 
 // Mods to highlighted area
 .highlighted {max-width:1200px; margin-top:350px;background-color:transparent;}
