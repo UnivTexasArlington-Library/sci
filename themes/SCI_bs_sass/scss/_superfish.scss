@@ -67,10 +67,11 @@
 
 .sf-menu.sf-style-none.sf-navbar li ul {
   /*background-color: #3270c5;*/
-  color: $sci-dark;
-  background-color: $sci-bg;
+   background-color: $sci-bg;
   top:3.6em;
 }
+.sf-menu.sf-style-none.sf-navbar li ul a {color:$sci-dark;}
+
 .sf-menu.sf-style-none.sf-navbar li ul li ul {
   background-color: transparent;
 }
