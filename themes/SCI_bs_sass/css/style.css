@@ -5891,7 +5891,8 @@ body {
   font-size: 200%;
   text-transform: uppercase;
   border-bottom: 1px solid #fff;
-  padding-bottom: 10px; }
+  padding-bottom: 10px;
+  letter-spacing: 2px; }
 
 #bottomname {
   font-size: 14px; }
@@ -6015,7 +6016,8 @@ div.panel-col-bottom {
   max-width: 900px;
   margin: auto;
   text-align: center;
-  font-family: 'Dancing Script', cursive; }
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px; }
 
 footer.footer {
   padding: 1% 0 1% 11%;

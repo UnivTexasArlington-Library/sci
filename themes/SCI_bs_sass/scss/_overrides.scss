@@ -149,7 +149,7 @@ $sci-light-link: #F37758;
 body {background-color: $sci-bg;font-family: 'Raleway', sans-serif;font-size:16px;}
 
 // Mods to header and navbar
-#topname {font-size:200%;text-transform:uppercase;border-bottom:1px solid #fff;padding-bottom:10px;}
+#topname {font-size:200%;text-transform:uppercase;border-bottom:1px solid #fff;padding-bottom:10px;letter-spacing:2px;}
 #bottomname {font-size: 14px;}
 .navbar-default {border:0;}
 .navbar-default .navbar-brand {color:#fff;}
@@ -196,7 +196,7 @@ div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {max-width:1
 #block-system-main img {margin:auto;}
 
 // Mods to home page slogan
-div.panel-col-bottom {max-width:900px;margin:auto;text-align:center;font-family: 'Dancing Script', cursive;}
+div.panel-col-bottom {max-width:900px;margin:auto;text-align:center;font-family: 'Dancing Script', cursive;font-size:30px;}
 
 // Mods to footer
 footer.footer {padding:1% 0 1% 11%;max-width:1200px;background-color:$sci-white;}
