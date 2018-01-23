@@ -67,6 +67,7 @@
     <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
   <?php print $scripts; ?>
+  <link href="https://fonts.googleapis.com/css?family=Dancing+Script|Raleway" rel="stylesheet"> 
 </head>
 <body<?php print $body_attributes; ?>>
   <div id="skip-link">
