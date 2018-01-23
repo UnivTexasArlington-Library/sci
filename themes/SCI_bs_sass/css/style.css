@@ -5948,7 +5948,8 @@ header#navbar {
 #edit-submit-search-page {
   background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/search.png");
   background-repeat: no-repeat;
-  background-size: 25px 25px; }
+  background-size: 25px 25px;
+  background-position: center center; }
 
 .btn-primary {
   background-color: #094fa4; }
@@ -5975,17 +5976,18 @@ header#navbar {
   margin-top: -7px; }
 
 #edit-submit-search-page-home {
-  margin-top: -5px;
-  margin-left: -18px; }
+  margin-top: -8px;
+  margin-left: 0; }
 
 #edit-submit-search-page-home.btn.btn-primary.form-submit {
-  width: 35px;
-  height: 35px; }
+  width: 50px;
+  height: 50px; }
 
 #edit-submit-search-page-home {
   background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/search.png");
   background-repeat: no-repeat;
-  background-size: 25px 25px; }
+  background-size: 40px 40px;
+  background-position: center center; }
 
 .highlighted {
   margin-top: 350px;
