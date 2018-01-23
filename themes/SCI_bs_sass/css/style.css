@@ -6640,7 +6640,9 @@ a.icon-after .glyphicon {
   border-bottom: 1px solid white; }
 
 .sf-menu.sf-style-none.sf-navbar li ul {
-  background-color: #3270c5; }
+  /*background-color: #3270c5;*/
+  background-color: #e8e8e8;
+  top: 3.6em; }
 
 .sf-menu.sf-style-none.sf-navbar li ul li ul {
   background-color: transparent; }
