@@ -5951,7 +5951,8 @@ header#navbar {
   background-color: #094fa4; }
 
 .views-exposed-widgets {
-  border: 5px solid #041421; }
+  border: 5px solid #041421;
+  margin-top: -8px; }
 
 .views-exposed-form .views-exposed-widget {
   padding-right: 0; }
