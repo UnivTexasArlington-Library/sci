@@ -5929,7 +5929,8 @@ header#navbar {
 
 #libraries-logo img {
   float: right;
-  max-width: 300px; }
+  max-width: 300px;
+  margin-right: 25px; }
 
 #edit-submit-search-page {
   margin-top: -5px;
