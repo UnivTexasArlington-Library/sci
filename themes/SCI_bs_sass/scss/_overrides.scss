@@ -139,6 +139,7 @@ body {
 
 //SCI colors
 $sci-dark: #092a45 !default;
+$sci-darker: #041421;
 $sci-white: #fff;
 $sci-bg: #e8e8e8;
 $sci-search-bg: #094fa4;
@@ -171,7 +172,7 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 	background-size: 30px 30px;
 	}
 .btn-primary {background-color: $sci-search-bg;}
-.views-exposed-widgets {border: 5px solid $sci-dark;}
+.views-exposed-widgets {border: 5px solid $sci-darker;}
 
 // Mods to highlighted area
 .highlighted {max-width:1200px; margin-top:350px;background-color:transparent;}
