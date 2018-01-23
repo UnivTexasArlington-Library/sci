@@ -168,11 +168,11 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 #edit-submit-search-page { 
 	background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/search.png");
     background-repeat: no-repeat;
-    background-position: center top; 
-	background-size: 30px 30px;
+    background-size: 30px 30px;
 	}
 .btn-primary {background-color: $sci-search-bg;}
 .views-exposed-widgets {border: 5px solid $sci-darker;}
+.views-exposed-widget {padding-right:0;}
 
 // Mods to highlighted area
 .highlighted {max-width:1200px; margin-top:350px;background-color:transparent;}

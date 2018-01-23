@@ -5945,7 +5945,6 @@ header#navbar {
 #edit-submit-search-page {
   background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/search.png");
   background-repeat: no-repeat;
-  background-position: center top;
   background-size: 30px 30px; }
 
 .btn-primary {
@@ -5953,6 +5952,9 @@ header#navbar {
 
 .views-exposed-widgets {
   border: 5px solid #041421; }
+
+.views-exposed-widget {
+  padding-right: 0; }
 
 .highlighted {
   max-width: 1200px;
