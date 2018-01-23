@@ -5965,6 +5965,9 @@ header#navbar {
   width: 726px;
   padding-top: 5px; }
 
+#edit-submit-search-page-home {
+  margin-top: -7px; }
+
 .highlighted {
   margin-top: 350px;
   background-color: transparent; }
