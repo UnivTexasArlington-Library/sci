@@ -176,7 +176,7 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 .views-exposed-widgets {border: 5px solid $sci-darker;margin-top:-8px;}
 .views-exposed-form .views-exposed-widget {padding-right:0;}
 #views-exposed-form-search-page-home-page {max-width:800px; margin:auto;}
-#views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper {width:726px; padding-top:5px;}
+#views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper {width:740px; padding-top:5px;}
 #views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper > div > div > input {height:50px;}
 #edit-submit-search-page-home {margin-top:-7px;}
 #edit-submit-search-page-home {margin-top:-8px;margin-left:0;}
@@ -196,6 +196,7 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 // Mods to about teaser
 .view-about-teaser {color: $sci-white;max-width:1200px;margin:20px auto;}
 #block-system-main > div > div.panel-panel.panel-col-top > div > div > div.pane-content > div > div > div > div {padding:20px 0;}
+#block-system-main > div > div.panel-panel.panel-col-top > div > div > div.pane-content > div > div > div > div > div > p {margin-top:30px;}
 .more-link {max-width:1200px;text-align:right;margin:auto;}
 
 // Mods to content area

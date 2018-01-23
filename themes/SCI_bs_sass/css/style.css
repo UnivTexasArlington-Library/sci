@@ -5966,7 +5966,7 @@ header#navbar {
   margin: auto; }
 
 #views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper {
-  width: 726px;
+  width: 740px;
   padding-top: 5px; }
 
 #views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper > div > div > input {
@@ -6003,6 +6003,9 @@ header#navbar {
 
 #block-system-main > div > div.panel-panel.panel-col-top > div > div > div.pane-content > div > div > div > div {
   padding: 20px 0; }
+
+#block-system-main > div > div.panel-panel.panel-col-top > div > div > div.pane-content > div > div > div > div > div > p {
+  margin-top: 30px; }
 
 .more-link {
   max-width: 1200px;
