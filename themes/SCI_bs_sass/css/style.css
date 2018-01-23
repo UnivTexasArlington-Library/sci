@@ -5957,8 +5957,11 @@ header#navbar {
 .views-exposed-form .views-exposed-widget {
   padding-right: 0; }
 
+#views-exposed-form-search-page-home-page {
+  max-width: 800px;
+  margin: auto; }
+
 .highlighted {
-  max-width: 1200px;
   margin-top: 350px;
   background-color: transparent; }
 

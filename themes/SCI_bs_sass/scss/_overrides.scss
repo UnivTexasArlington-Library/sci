@@ -173,9 +173,10 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 .btn-primary {background-color: $sci-search-bg;}
 .views-exposed-widgets {border: 5px solid $sci-darker;margin-top:-8px;}
 .views-exposed-form .views-exposed-widget {padding-right:0;}
+#views-exposed-form-search-page-home-page {max-width:800px; margin:auto;}
 
 // Mods to highlighted area
-.highlighted {max-width:1200px; margin-top:350px;background-color:transparent;}
+.highlighted {margin-top:350px;background-color:transparent;}
 #block-views-about-teaser-block {color: $sci-white;}
 
 // Mods to about teaser
