@@ -16,10 +16,6 @@ $grid-breakpoint:     "screen and (min-width: #{$grid-float-breakpoint})";
      -moz-box-shadow: $shadow;
           box-shadow: $shadow;
 }
-//SCI colors
-$sci-dark: #092a45 !default;
-$sci-white: #fff;
-$sci-bg: #e8e8e8;
 
 
 html {
@@ -141,6 +137,11 @@ body {
   }
 }
 
+//SCI colors
+$sci-dark: #092a45 !default;
+$sci-white: #fff;
+$sci-bg: #e8e8e8;
+
 // Mods to body
 body {background-color: $sci-bg;font-family: 'Raleway', sans-serif;}
 
@@ -162,6 +163,12 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 #edit-submit-search-page {margin-top:-5px;margin-left:-18px;}
 #edit-submit-search-page.btn.btn-primary.form-submit {width:35px; height:35px;}
 #edit-search-api-views-fulltext {margin-top:-5px;}
+#edit-search-page span.search-button { 
+	background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/search.png");
+    background-repeat: no-repeat;
+    background-position: center top; 
+	background-size: 30px 30px;
+	}
 
 // Mods to highlighted area
 .highlighted {max-width:1200px; margin-top:350px;background-color:transparent;}

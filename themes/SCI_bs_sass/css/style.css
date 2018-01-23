@@ -5942,6 +5942,12 @@ header#navbar {
 #edit-search-api-views-fulltext {
   margin-top: -5px; }
 
+#edit-search-page span.search-button {
+  background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/search.png");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: 30px 30px; }
+
 .highlighted {
   max-width: 1200px;
   margin-top: 350px;
