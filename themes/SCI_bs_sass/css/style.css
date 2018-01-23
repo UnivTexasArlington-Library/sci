@@ -5883,7 +5883,8 @@ body {
   width: auto; }
 
 body {
-  background-color: #e8e8e8; }
+  background-color: #e8e8e8;
+  font-family: 'Raleway', sans-serif; }
 
 #topname {
   font-size: 200%;
@@ -5978,7 +5979,8 @@ div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {
 div.panel-col-bottom {
   max-width: 900px;
   margin: auto;
-  text-align: center; }
+  text-align: center;
+  font-family: 'Dancing Script', cursive; }
 
 footer.footer {
   padding: 1% 0 1% 11%;
