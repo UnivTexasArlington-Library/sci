@@ -5961,7 +5961,7 @@ header#navbar {
   max-width: 800px;
   margin: auto; }
 
-#edit-search-api-views-fulltext-wrapper {
+#views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper {
   width: 726px;
   padding-top: 5px; }
 
