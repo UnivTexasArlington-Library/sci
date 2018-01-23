@@ -5951,6 +5951,9 @@ header#navbar {
 .btn-primary {
   background-color: #094fa4; }
 
+.views-exposed-widgets {
+  border: 5px solid #092a45; }
+
 .highlighted {
   max-width: 1200px;
   margin-top: 350px;
