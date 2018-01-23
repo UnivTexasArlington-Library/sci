@@ -6634,7 +6634,8 @@ a.icon-after .glyphicon {
   /* background: #3270c5;
     color: #ffea00;*/
   background: transparent;
-  color: #F37758; }
+  color: #F37758;
+  text-decoration: none; }
 
 .sf-menu.sf-style-none li.active-trail > a {
   border-bottom: 1px solid white; }
