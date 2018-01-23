@@ -169,7 +169,7 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 #edit-submit-search-page { 
 	background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/search.png");
     background-repeat: no-repeat;
-    background-size: 30px 30px;
+    background-size: 25px 25px;
 	}
 .btn-primary {background-color: $sci-search-bg;}
 .views-exposed-widgets {border: 5px solid $sci-darker;margin-top:-8px;}
@@ -178,6 +178,13 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 #views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper {width:726px; padding-top:5px;}
 #views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper > div > div > input {height:50px;}
 #edit-submit-search-page-home {margin-top:-7px;}
+#edit-submit-search-page-home {margin-top:-5px;margin-left:-18px;}
+#edit-submit-search-page-home.btn.btn-primary.form-submit {width:35px; height:35px;}
+#edit-submit-search-page-home { 
+	background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/search.png");
+    background-repeat: no-repeat;
+    background-size: 25px 25px;
+	}
 
 
 // Mods to highlighted area
