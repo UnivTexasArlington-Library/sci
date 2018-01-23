@@ -5948,6 +5948,9 @@ header#navbar {
   background-position: center top;
   background-size: 30px 30px; }
 
+.btn-primary {
+  background-color: #094fa4; }
+
 .highlighted {
   max-width: 1200px;
   margin-top: 350px;

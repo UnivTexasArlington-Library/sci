@@ -141,6 +141,7 @@ body {
 $sci-dark: #092a45 !default;
 $sci-white: #fff;
 $sci-bg: #e8e8e8;
+$sci-search-bg: #094fa4;
 
 // Mods to body
 body {background-color: $sci-bg;font-family: 'Raleway', sans-serif;}
@@ -169,6 +170,7 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
     background-position: center top; 
 	background-size: 30px 30px;
 	}
+.btn-primary {background-color: $sci-search-bg;}
 
 // Mods to highlighted area
 .highlighted {max-width:1200px; margin-top:350px;background-color:transparent;}
