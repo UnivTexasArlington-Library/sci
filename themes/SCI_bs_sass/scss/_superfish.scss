@@ -63,7 +63,7 @@
   color: #F37758;
 }
 
-.sf-menu.sf-style-none a:active {border-bottom: $sci-white;}
+.sf-menu li.active-trail > a {border-bottom: 1px solid white;}
 
 .sf-menu.sf-style-none.sf-navbar li ul {
   background-color: #3270c5;
