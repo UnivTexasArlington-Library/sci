@@ -5903,7 +5903,8 @@ body {
 
 .navbar-header {
   float: none;
-  margin-bottom: 15px; }
+  margin-bottom: 15px;
+  margin-top: 5px; }
 
 .navbar-header a.logo img {
   max-width: 200px; }
@@ -6630,8 +6631,10 @@ a.icon-after .glyphicon {
 .sf-menu.sf-style-none a:active,
 .sf-menu.sf-style-none span.nolink:hover,
 .sf-menu.sf-style-none.sf-navbar li li {
-  background: #3270c5;
-  color: #ffea00; }
+  /* background: #3270c5;
+    color: #ffea00;*/
+  background: transparent;
+  color: #F37758; }
 
 .sf-menu.sf-style-none.sf-navbar li ul {
   background-color: #3270c5; }
