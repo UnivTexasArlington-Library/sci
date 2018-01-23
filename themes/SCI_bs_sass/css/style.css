@@ -6636,6 +6636,9 @@ a.icon-after .glyphicon {
   background: transparent;
   color: #F37758; }
 
+.active-trail {
+  border-bottom: #fff; }
+
 .sf-menu.sf-style-none.sf-navbar li ul {
   background-color: #3270c5; }
 
