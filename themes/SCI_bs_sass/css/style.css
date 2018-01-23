@@ -5884,7 +5884,8 @@ body {
 
 body {
   background-color: #e8e8e8;
-  font-family: 'Raleway', sans-serif; }
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px; }
 
 #topname {
   font-size: 200%;
