@@ -5948,9 +5948,7 @@ header#navbar {
 #edit-search-api-views-fulltext {
   margin-top: -5px; }
 
-#views-exposed-form-search-page-page > div > div > div > div#edit-search-api-views-fulltext-wrapper {
-  padding-top: 0.4em; }
-
+/*#views-exposed-form-search-page-page > div > div > div > div#edit-search-api-views-fulltext-wrapper {padding-top:0.4em;}*/
 #edit-submit-search-page {
   background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/search.png");
   background-repeat: no-repeat;
