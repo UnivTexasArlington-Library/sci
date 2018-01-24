@@ -5890,6 +5890,10 @@ body {
 a {
   color: #094fa4; }
 
+#wordmark {
+  float: left;
+  color: #fff; }
+
 #topname {
   font-size: 200%;
   text-transform: uppercase;

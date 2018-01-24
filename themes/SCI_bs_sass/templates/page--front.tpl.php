@@ -81,7 +81,7 @@
       <?php endif; ?>
 
       <?php if (!empty($site_name)): ?>
-         <div style="width:200px;float:left;">
+         <div id="wordmark">
 		 <div id="topname">archive</div>
 		<div id="bottomname">Society of Composers, Inc.</div>
 		</div>

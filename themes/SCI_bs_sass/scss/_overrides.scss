@@ -151,6 +151,7 @@ body {background-color: $sci-bg;font-family: 'Raleway', sans-serif;font-size:16p
 a {color:$sci-dark-link;}
 
 // Mods to header and navbar
+#wordmark {float:left;color:$sci-white;}
 #topname {font-size:200%;text-transform:uppercase;border-bottom:1px solid #fff;padding-bottom:10px;letter-spacing:2px;}
 #bottomname {font-size: 14px;}
 .navbar-default {border:0;}
