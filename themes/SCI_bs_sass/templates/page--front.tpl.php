@@ -75,7 +75,7 @@
 ?>
 <header id="navbar" role="banner" class="<?php print $navbar_classes; ?>">
   <div class="<?php print $container_class; ?>">
-    <div class="navbar-header">
+    <div class="navbar-header home">
       <?php if ($logo): ?>
          <img class="logo navbar-btn pull-left" src="<?php print $logo; ?>" alt="<?php print t('Home'); ?>" />
       <?php endif; ?>
