@@ -81,12 +81,10 @@
       <?php endif; ?>
 
       <?php if (!empty($site_name)): ?>
-         <div class="name navbar-brand">
-		 <div id="topname">archive</div>
+         <div id="topname">archive</div>
 		<div id="bottomname">Society of Composers, Inc.</div>
 		<div id="libraries-logo"><a href="//library.uta.edu/"><img src="/sci/sites/library-test.uta.edu.sci/files/uta-libraries.gif" /></a></div>
-		</div>
-      <?php endif; ?>
+	  <?php endif; ?>
 
       <?php if (!empty($primary_nav) || !empty($secondary_nav) || !empty($page['navigation'])): ?>
       
