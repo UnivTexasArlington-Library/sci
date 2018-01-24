@@ -5927,6 +5927,9 @@ a {
   padding-top: 10px;
   font-size: 228%; }
 
+.navbar-header.home > img.logo {
+  padding-right: 0; }
+
 section#block-superfish-1 {
   float: left; }
 
