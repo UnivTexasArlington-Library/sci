@@ -6059,7 +6059,7 @@ div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {
   background-color: #092a45;
   min-height: 360px; }
 
-div.panel-pane.pane-views-panes.pane-home-blocks-panel-pane-1.center-block > div > div > img {
+div.panel-pane.pane-views-panes.pane-home-blocks-panel-pane-1 > div > div > div > div > img {
   margin: auto; }
 
 div.panel-col-bottom {
