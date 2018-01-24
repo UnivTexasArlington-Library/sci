@@ -153,6 +153,7 @@ body {background-color: $sci-bg;font-family: 'Raleway', sans-serif;font-size:16p
 #bottomname {font-size: 14px;}
 .navbar-default {border:0;}
 .navbar-default .navbar-brand {color:#fff;}
+.navbar-default .navbar-brand:hover {color:$sci-light-link;}
 .navbar-header {float:none;margin-bottom:15px;margin-top:5px;}
 .navbar-header a.logo img {max-width:200px;}
 section#block-superfish-1 {float:left;}
@@ -166,6 +167,7 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 #edit-submit-search-page {margin-top:-5px;margin-left:-18px;}
 #edit-submit-search-page.btn.btn-primary.form-submit {width:35px; height:35px;}
 #edit-search-api-views-fulltext {margin-top:-5px;}
+#views-exposed-form-search-page-page > div > div > div > div#edit-search-api-views-fulltext-wrapper {padding-top:0.4em;}
 #edit-submit-search-page { 
 	background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/search.png");
     background-repeat: no-repeat;
@@ -197,7 +199,7 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 .view-about-teaser {color: $sci-white;max-width:1200px;margin:20px auto;}
 .view-id-about_teaser a, .more-link a {color: $sci-light-link;text-decoration:underline;}
 #block-system-main > div > div.panel-panel.panel-col-top > div > div > div.pane-content > div > div > div > div {padding:20px 0;}
-#block-system-main > div > div.panel-panel.panel-col-top > div > div > div.pane-content > div > div > div > div > div > p {margin:30px auto 0 auto;max-width:900px;line-height:24px;}
+#block-system-main > div > div.panel-panel.panel-col-top > div > div > div.pane-content > div > div > div > div > div > p {margin:30px auto 0 auto;max-width:1100px;line-height:24px;}
 .more-link {max-width:900px;text-align:right;margin:-25px auto auto auto;}
 
 // Mods to content area

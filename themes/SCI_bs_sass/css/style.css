@@ -5903,6 +5903,9 @@ body {
 .navbar-default .navbar-brand {
   color: #fff; }
 
+.navbar-default .navbar-brand:hover {
+  color: #F37758; }
+
 .navbar-header {
   float: none;
   margin-bottom: 15px;
@@ -5944,6 +5947,9 @@ header#navbar {
 
 #edit-search-api-views-fulltext {
   margin-top: -5px; }
+
+#views-exposed-form-search-page-page > div > div > div > div#edit-search-api-views-fulltext-wrapper {
+  padding-top: 0.4em; }
 
 #edit-submit-search-page {
   background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/search.png");
@@ -6010,7 +6016,7 @@ header#navbar {
 
 #block-system-main > div > div.panel-panel.panel-col-top > div > div > div.pane-content > div > div > div > div > div > p {
   margin: 30px auto 0 auto;
-  max-width: 900px;
+  max-width: 1100px;
   line-height: 24px; }
 
 .more-link {
