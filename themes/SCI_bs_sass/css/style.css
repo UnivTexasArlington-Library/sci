@@ -5922,7 +5922,10 @@ a {
   max-width: 200px; }
 
 .navbar-header.home > div#wordmark > div#topname {
-  line-height: 1; }
+  line-height: 1;
+  padding-bottom: 0;
+  padding-top: 10px;
+  font-size: 228%; }
 
 section#block-superfish-1 {
   float: left; }
