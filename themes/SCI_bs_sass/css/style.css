@@ -6054,6 +6054,9 @@ div.panel-pane.pane-views-panes.pane-home-blocks-panel-pane-1 > div > div > div 
 .main-container {
   background-color: #fff; }
 
+.front .main-container {
+  background: transparent; }
+
 div.panel-col-bottom {
   max-width: 900px;
   margin: auto;
