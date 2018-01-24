@@ -5948,7 +5948,7 @@ header#navbar {
 #edit-search-api-views-fulltext {
   margin-top: -5px; }
 
-#views-exposed-form-search-page-page > div > div > div > div#edit-search-api-views-fulltext-wrapper.views-exposed-widget-filter-search_api_views_fulltext {
+#views-exposed-form-search-page-page > div > div > div > div#edit-search-api-views-fulltext-wrapper.views-exposed-widget.views-widget-filter-search_api_views_fulltext {
   padding: 0.4em 1em 0 0; }
 
 #edit-submit-search-page {
