@@ -5970,7 +5970,7 @@ header#navbar {
   padding-top: 5px; }
 
 #views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper > div > div > input {
-  height: 50px; }
+  height: 60px; }
 
 #edit-submit-search-page-home {
   margin-top: -7px; }
@@ -5980,8 +5980,8 @@ header#navbar {
   margin-left: 0; }
 
 #edit-submit-search-page-home.btn.btn-primary.form-submit {
-  width: 50px;
-  height: 50px; }
+  width: 60px;
+  height: 60px; }
 
 #edit-submit-search-page-home {
   background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/search.png");
@@ -6001,11 +6001,16 @@ header#navbar {
   max-width: 1200px;
   margin: 20px auto; }
 
+.view-about-teaser a {
+  color: #F37758; }
+
 #block-system-main > div > div.panel-panel.panel-col-top > div > div > div.pane-content > div > div > div > div {
   padding: 20px 0; }
 
 #block-system-main > div > div.panel-panel.panel-col-top > div > div > div.pane-content > div > div > div > div > div > p {
-  margin-top: 30px; }
+  margin: 30px auto 0 auto;
+  max-width: 900px;
+  line-height: 24px; }
 
 .more-link {
   max-width: 1200px;
