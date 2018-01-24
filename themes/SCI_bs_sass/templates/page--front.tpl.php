@@ -81,8 +81,10 @@
       <?php endif; ?>
 
       <?php if (!empty($site_name)): ?>
-         <div id="topname">archive</div>
+         <div style="width:200px;float:left;">
+		 <div id="topname">archive</div>
 		<div id="bottomname">Society of Composers, Inc.</div>
+		</div>
 		<div id="libraries-logo"><a href="//library.uta.edu/"><img src="/sci/sites/library-test.uta.edu.sci/files/uta-libraries.gif" /></a></div>
 	  <?php endif; ?>
 
