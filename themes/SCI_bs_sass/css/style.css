@@ -5921,6 +5921,9 @@ a {
 .navbar-header img {
   max-width: 200px; }
 
+.navbar-header.home > div#wordmark > div#topname {
+  line-height: 1; }
+
 section#block-superfish-1 {
   float: left; }
 
