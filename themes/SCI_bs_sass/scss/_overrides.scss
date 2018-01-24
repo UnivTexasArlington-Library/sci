@@ -143,10 +143,12 @@ $sci-darker: #041421;
 $sci-white: #fff;
 $sci-bg: #e8e8e8;
 $sci-search-bg: #094fa4;
+$sci-dark-link: #094fa4;
 $sci-light-link: #F37758;
 
-// Mods to body
+// Mods to body and elements
 body {background-color: $sci-bg;font-family: 'Raleway', sans-serif;font-size:16px;}
+a {color:$sci-dark-link;}
 
 // Mods to header and navbar
 #topname {font-size:200%;text-transform:uppercase;border-bottom:1px solid #fff;padding-bottom:10px;letter-spacing:2px;}
