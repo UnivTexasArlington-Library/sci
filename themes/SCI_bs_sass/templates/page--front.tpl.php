@@ -83,8 +83,8 @@
       <?php endif; ?>
 
       <?php if (!empty($site_name)): ?>
-         <a class="name navbar-brand" href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>"><div id="topname">archive</div>
-		<div id="bottomname">Society of Composers, Inc.</div></a>
+         <div id="topname">archive</div>
+		<div id="bottomname">Society of Composers, Inc.</div>
 		<div id="libraries-logo"><a href="//library.uta.edu/"><img src="/sci/sites/library-test.uta.edu.sci/files/uta-libraries.gif" /></a></div>
       <?php endif; ?>
 
