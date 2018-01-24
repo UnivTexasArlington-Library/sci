@@ -6001,7 +6001,7 @@ header#navbar {
   max-width: 1200px;
   margin: 20px auto; }
 
-.view-id-about-teaser a {
+.view-id-about_teaser a {
   color: #F37758;
   text-decoration: underline; }
 
@@ -6016,7 +6016,7 @@ header#navbar {
 .more-link {
   max-width: 1200px;
   text-align: right;
-  margin: -20px auto auto auto; }
+  margin: -25px auto auto auto; }
 
 div.region.region-content {
   max-width: 1900px;
