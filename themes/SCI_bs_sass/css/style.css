@@ -6051,6 +6051,9 @@ div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {max-width:1
 .pane-about-teaser {background-color: $sci-dark;min-height:360px;}
 div.panel-pane.pane-views-panes.pane-home-blocks-panel-pane-1 > div > div > div > div > img {margin:auto;}
 */
+.main-container {
+  background-color: #fff; }
+
 div.panel-col-bottom {
   max-width: 900px;
   margin: auto;
