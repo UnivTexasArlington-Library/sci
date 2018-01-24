@@ -5927,6 +5927,10 @@ a {
   padding-top: 10px;
   font-size: 228%; }
 
+.navbar-header.home > div#wordmark {
+  padding-left: 15px;
+  padding-top: 2px; }
+
 .navbar-header.home > img.logo {
   padding-right: 0; }
 
