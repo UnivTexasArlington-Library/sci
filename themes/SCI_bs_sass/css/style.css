@@ -5966,7 +5966,7 @@ header#navbar {
   margin: auto; }
 
 #views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper {
-  width: 740px;
+  width: 730px;
   padding-top: 5px; }
 
 #views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper > div > div > input {
@@ -6001,8 +6001,9 @@ header#navbar {
   max-width: 1200px;
   margin: 20px auto; }
 
-.view-about-teaser a {
-  color: #F37758; }
+.view-id-about-teaser a {
+  color: #F37758;
+  text-decoration: underline; }
 
 #block-system-main > div > div.panel-panel.panel-col-top > div > div > div.pane-content > div > div > div > div {
   padding: 20px 0; }
@@ -6015,7 +6016,7 @@ header#navbar {
 .more-link {
   max-width: 1200px;
   text-align: right;
-  margin: auto; }
+  margin: -20px auto auto auto; }
 
 div.region.region-content {
   max-width: 1900px;
