@@ -1538,7 +1538,7 @@ pre {
       width: 970px; } }
   @media (min-width: 1200px) {
     .container {
-      width: 1870px; } }
+      width: 1170px; } }
 
 .container-fluid {
   margin-right: auto;
@@ -5875,7 +5875,7 @@ body {
     max-width: 940px; } }
 @media screen and (min-width: 1200px) {
   .navbar.container {
-    max-width: 1840px; } }
+    max-width: 1140px; } }
 .navbar.container, .navbar.container-fluid {
   margin-top: 0; }
 .navbar.container > .container, .navbar.container-fluid > .container-fluid {
