@@ -6001,7 +6001,7 @@ header#navbar {
   max-width: 1200px;
   margin: 20px auto; }
 
-.view-id-about_teaser a {
+.view-id-about_teaser a, .more-link a {
   color: #F37758;
   text-decoration: underline; }
 
