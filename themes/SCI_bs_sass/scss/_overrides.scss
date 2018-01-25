@@ -210,7 +210,7 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 .more-link {max-width:900px;text-align:right;margin:-25px auto auto auto;}
 
 // Mods to front content area
-.teaser-bg {height:350px;background-color:$sci-dark;position:relative;top:890px;}
+.teaser-bg {height:280px;background-color:$sci-dark;position:relative;top:860px;}
 .pane-about-teaser {min-height:360px;}
 div.panel-pane.pane-views-panes.pane-home-blocks-panel-pane-1 > div > div > div > div > img {margin:auto;}
 .front .main-container {background:transparent;}
@@ -220,11 +220,11 @@ div.panel-col-bottom {max-width:900px;margin:auto;text-align:center;font-family:
 
 // Mods to footer
 footer.footer {padding:1% 0 1% 11%;max-width:1200px;background-color:$sci-white;}
-#bottom-image img {max-width:190px;position:relative;top:-250px;left:80%;z-index:-1;}
+#bottom-image img {max-width:190px;position:relative;top:-250px;left:80%;z-index:-1;max-height:80px;}
 
 // Mods to content area
 div.region.region-content {max-width:1900px; margin:auto;}
-div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {max-width:1200px; margin:-140px auto 50px auto;padding:40px;background-color:$sci-white;min-height:500px;}
+div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {max-width:1200px; margin:-175px auto 50px auto;padding:40px;background-color:$sci-white;min-height:500px;}
 .main-container {background-color:$sci-white;}
 
 // Adjust z-index of core components.

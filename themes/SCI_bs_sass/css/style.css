@@ -6046,10 +6046,10 @@ header#navbar {
   margin: -25px auto auto auto; }
 
 .teaser-bg {
-  height: 350px;
+  height: 280px;
   background-color: #092a45;
   position: relative;
-  top: 890px; }
+  top: 860px; }
 
 .pane-about-teaser {
   min-height: 360px; }
@@ -6079,7 +6079,8 @@ footer.footer {
   position: relative;
   top: -250px;
   left: 80%;
-  z-index: -1; }
+  z-index: -1;
+  max-height: 80px; }
 
 div.region.region-content {
   max-width: 1900px;
@@ -6087,7 +6088,7 @@ div.region.region-content {
 
 div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {
   max-width: 1200px;
-  margin: -140px auto 50px auto;
+  margin: -175px auto 50px auto;
   padding: 40px;
   background-color: #fff;
   min-height: 500px; }
