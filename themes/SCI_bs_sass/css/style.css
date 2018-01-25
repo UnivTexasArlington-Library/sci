@@ -6078,10 +6078,10 @@ footer.footer {
   max-height: 80px; }
 
 #bottom-image img {
-  max-width: 190px;
+  max-width: 224px;
   position: relative;
-  top: -250px;
-  left: 80%;
+  top: -270px;
+  left: 79%;
   z-index: -1; }
 
 div.region.region-content {
