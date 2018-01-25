@@ -6009,11 +6009,12 @@ form#views-exposed-form-search-page-page .views-exposed-widgets {
   margin: auto; }
 
 #views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper {
-  width: 730px;
+  width: 715px;
   padding-top: 5px; }
 
 #views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper > div > div > input {
-  height: 60px; }
+  height: 75px;
+  font-size: 20px; }
 
 #edit-submit-search-page-home {
   margin-top: -7px; }
@@ -6023,8 +6024,8 @@ form#views-exposed-form-search-page-page .views-exposed-widgets {
   margin-left: 0; }
 
 #edit-submit-search-page-home.btn.btn-primary.form-submit {
-  width: 60px;
-  height: 60px; }
+  width: 75px;
+  height: 75px; }
 
 #edit-submit-search-page-home {
   background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/search.png");
