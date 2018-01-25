@@ -6058,7 +6058,8 @@ div.panel-pane.pane-views-panes.pane-home-blocks-panel-pane-1 > div > div > div 
   margin: auto; }
 
 .front .main-container {
-  background: transparent; }
+  background: transparent;
+  margin-top: 0; }
 
 div.panel-col-bottom {
   max-width: 900px;
@@ -6095,7 +6096,7 @@ div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {
   background-color: #fff;
   min-height: 500px; }
 
-.main-container.container {
+.main-container {
   background-color: #fff;
   margin-top: 50px; }
 
