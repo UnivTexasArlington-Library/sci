@@ -5890,8 +5890,7 @@ body {
 
 a {
   color: #094fa4;
-  text-decoration: underline;
-  font-weight: bold; }
+  text-decoration: underline; }
 
 #wordmark {
   float: left;
@@ -5914,7 +5913,7 @@ a {
   color: #fff; }
 
 .navbar-default .navbar-brand:hover {
-  color: #F37758; }
+  color: #f5d300; }
 
 .navbar-header {
   float: none;
@@ -6043,7 +6042,7 @@ form#views-exposed-form-search-page-page .views-exposed-widgets {
   margin: 20px auto; }
 
 .view-id-about_teaser a, .more-link a {
-  color: #F37758;
+  color: #f5d300;
   text-decoration: underline; }
 
 #block-system-main > div > div.panel-panel.panel-col-top > div > div > div.pane-content > div > div > div > div {
@@ -6745,7 +6744,7 @@ a.icon-after .glyphicon {
   /* background: #3270c5;
     color: #ffea00;*/
   background: transparent;
-  color: #F37758;
+  color: #f5d300;
   text-decoration: none; }
 
 .sf-menu.sf-style-none li.active-trail > a {
