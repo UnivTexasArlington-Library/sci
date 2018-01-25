@@ -6045,14 +6045,12 @@ header#navbar {
   text-align: right;
   margin: -25px auto auto auto; }
 
-/*
-div.region.region-content {max-width:1900px; margin:auto;}
-div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {max-width:1200px; margin:-140px auto 50px auto;padding:40px;background-color:$sci-white;min-height:500px;}
-.pane-about-teaser {background-color: $sci-dark;min-height:360px;}
-div.panel-pane.pane-views-panes.pane-home-blocks-panel-pane-1 > div > div > div > div > img {margin:auto;}
-*/
-.main-container {
-  background-color: #fff; }
+.pane-about-teaser {
+  background-color: #092a45;
+  min-height: 360px; }
+
+div.panel-pane.pane-views-panes.pane-home-blocks-panel-pane-1 > div > div > div > div > img {
+  margin: auto; }
 
 .front .main-container {
   background: transparent; }
@@ -6077,6 +6075,20 @@ footer.footer {
   top: -250px;
   left: 80%;
   z-index: -1; }
+
+div.region.region-content {
+  max-width: 1900px;
+  margin: auto; }
+
+div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {
+  max-width: 1200px;
+  margin: -140px auto 50px auto;
+  padding: 40px;
+  background-color: #fff;
+  min-height: 500px; }
+
+.main-container {
+  background-color: #fff; }
 
 #overlay-container,
 .overlay-modal-background,
