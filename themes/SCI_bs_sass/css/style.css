@@ -5912,6 +5912,9 @@ header a {
   padding-bottom: 10px;
   letter-spacing: 2px; }
 
+#topname:hover {
+  border-bottom: 1px solid #f5d300; }
+
 #bottomname {
   font-size: 14px; }
 
