@@ -198,7 +198,6 @@ form#views-exposed-form-search-page-page .views-exposed-widgets {border:0;}
 	background-position:center center;
 	}
 
-
 // Mods to highlighted area
 .highlighted {margin-top:300px;background-color:transparent;}
 #block-views-about-teaser-block {color: $sci-white;}
@@ -228,6 +227,7 @@ footer.footer {padding:3% 0 3% 11%;max-width:1200px;background-color:$sci-white;
 div.region.region-content {max-width:1900px; margin:auto;}
 div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {max-width:1200px; margin:-175px auto 50px auto;padding:40px;background-color:$sci-white;min-height:500px;}
 .main-container {background-color:$sci-white;margin-top:50px;padding:40px;}
+.panel-panel.left.col-sm-3 {border-right: 1px solid $sci-bg;}
 
 // Adjust z-index of core components.
 #overlay-container,

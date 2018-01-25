@@ -6111,6 +6111,9 @@ div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {
   margin-top: 50px;
   padding: 40px; }
 
+.panel-panel.left.col-sm-3 {
+  border-right: 1px solid #e8e8e8; }
+
 #overlay-container,
 .overlay-modal-background,
 .overlay-element {
