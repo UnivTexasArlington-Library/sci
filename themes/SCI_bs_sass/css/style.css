@@ -6074,13 +6074,15 @@ footer.footer {
   max-width: 1200px;
   background-color: #fff; }
 
+#bottom-image {
+  max-height: 80px; }
+
 #bottom-image img {
   max-width: 190px;
   position: relative;
   top: -250px;
   left: 80%;
-  z-index: -1;
-  max-height: 80px; }
+  z-index: -1; }
 
 div.region.region-content {
   max-width: 1900px;
