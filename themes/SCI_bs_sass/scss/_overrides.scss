@@ -199,10 +199,12 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 
 
 // Mods to highlighted area
-.highlighted {margin-top:350px;background-color:transparent;}
+.highlighted {margin-top:300px;background-color:transparent;}
 #block-views-about-teaser-block {color: $sci-white;}
 
 // Mods to about teaser
+.teaser-bg {height:280px;background-color:$sci-dark;position:relative;top:800px;}
+.pane-about-teaser {min-height:360px;}
 .view-about-teaser {color: $sci-white;max-width:1200px;margin:20px auto;}
 .view-id-about_teaser a, .more-link a {color: $sci-light-link;text-decoration:underline;}
 #block-system-main > div > div.panel-panel.panel-col-top > div > div > div.pane-content > div > div > div > div {padding:20px 0;}
@@ -210,8 +212,6 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 .more-link {max-width:900px;text-align:right;margin:-25px auto auto auto;}
 
 // Mods to front content area
-.teaser-bg {height:280px;background-color:$sci-dark;position:relative;top:860px;}
-.pane-about-teaser {min-height:360px;}
 div.panel-pane.pane-views-panes.pane-home-blocks-panel-pane-1 > div > div > div > div > img {margin:auto;}
 .front .main-container {background:transparent;}
 
