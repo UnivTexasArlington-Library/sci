@@ -5912,7 +5912,7 @@ header a {
   padding-bottom: 10px;
   letter-spacing: 2px; }
 
-#topname:hover {
+.navbar-brand:hover #topname {
   border-bottom: 1px solid #f5d300; }
 
 #bottomname {
