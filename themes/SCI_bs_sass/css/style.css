@@ -5889,7 +5889,9 @@ body {
   font-size: 16px; }
 
 a {
-  color: #094fa4; }
+  color: #094fa4;
+  text-decoration: underline;
+  font-weight: bold; }
 
 #wordmark {
   float: left;

@@ -149,7 +149,7 @@ $sci-light-link: #F37758;
 
 // Mods to body and elements
 body {background-color: $sci-bg;font-family: 'Raleway', sans-serif;font-size:16px;}
-a {color:$sci-dark-link;}
+a {color:$sci-dark-link;text-decoration:underline;font-weight:bold;}
 
 // Mods to header and navbar
 #wordmark {float:left;color:$sci-white;}
