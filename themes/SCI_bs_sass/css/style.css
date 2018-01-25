@@ -6030,7 +6030,7 @@ form#views-exposed-form-search-page-page .views-exposed-widgets {
   background-position: center center; }
 
 .highlighted {
-  margin-top: 300px;
+  margin-top: 260px;
   background-color: transparent; }
 
 #block-views-about-teaser-block {
@@ -6116,7 +6116,7 @@ div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {
 
 .panel-panel.left.col-sm-3 {
   border-right: 1px solid #e8e8e8;
-  min-height: 100px; }
+  min-height: 200px; }
 
 h1.page-header {
   border: 0; }
