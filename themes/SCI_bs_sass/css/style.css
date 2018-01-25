@@ -6045,8 +6045,13 @@ header#navbar {
   text-align: right;
   margin: -25px auto auto auto; }
 
-.pane-about-teaser {
+.teaser-bg {
+  height: 350px;
   background-color: #092a45;
+  position: relative;
+  top: 890px; }
+
+.pane-about-teaser {
   min-height: 360px; }
 
 div.panel-pane.pane-views-panes.pane-home-blocks-panel-pane-1 > div > div > div > div > img {

@@ -209,8 +209,9 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 #block-system-main > div > div.panel-panel.panel-col-top > div > div > div.pane-content > div > div > div > div > div > p {margin:30px auto 0 auto;max-width:1100px;line-height:24px;}
 .more-link {max-width:900px;text-align:right;margin:-25px auto auto auto;}
 
-// Mods to home content area
-.pane-about-teaser {background-color: $sci-dark;min-height:360px;}
+// Mods to front content area
+.teaser-bg {height:350px;background-color:$sci-dark;position:relative;top:890px;}
+.pane-about-teaser {min-height:360px;}
 div.panel-pane.pane-views-panes.pane-home-blocks-panel-pane-1 > div > div > div > div > img {margin:auto;}
 .front .main-container {background:transparent;}
 
