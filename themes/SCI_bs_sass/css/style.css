@@ -6095,8 +6095,9 @@ div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {
   background-color: #fff;
   min-height: 500px; }
 
-.main-container {
-  background-color: #fff; }
+.main-container.container {
+  background-color: #fff;
+  margin-top: 50px; }
 
 #overlay-container,
 .overlay-modal-background,
