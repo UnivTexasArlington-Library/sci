@@ -118,7 +118,7 @@
 </header>
 
 <div class="main-container <?php print $container_class; ?>">
-
+<div class="teaser-bg"></div>
   <header role="banner" id="page-header">
     <?php if (!empty($site_slogan)): ?>
       <p class="lead"><?php print $site_slogan; ?></p>
@@ -139,8 +139,7 @@
       <?php if (!empty($page['highlighted'])): ?>
         <div class="highlighted jumbotron"><?php print render($page['highlighted']); ?></div>
       <?php endif; ?>
-	  <div class="teaser-bg"></div>
-      <?php if (!empty($breadcrumb)): print $breadcrumb; endif;?>
+	  <?php if (!empty($breadcrumb)): print $breadcrumb; endif;?>
       <a id="main-content"></a>
       <?php print render($title_prefix); ?>
       <?php if (!empty($title)): ?>
