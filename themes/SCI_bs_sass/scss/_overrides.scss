@@ -175,6 +175,7 @@ header#navbar {max-width:1900px;width:100%;padding:0;}
 #edit-submit-search-page.btn.btn-primary.form-submit {width:35px; height:35px;}
 #edit-search-api-views-fulltext {margin-top:-5px;}
 #views-exposed-form-search-page-page > div > div > div > div#edit-search-api-views-fulltext-wrapper.views-exposed-widget.views-widget-filter-search_api_views_fulltext {padding:0.4em 1em 0 0;}
+form#views-exposed-form-search-page-page .views-exposed-widgets {border:0;} 
 #edit-submit-search-page { 
 	background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/search.png");
     background-repeat: no-repeat;
@@ -226,7 +227,7 @@ footer.footer {padding:3% 0 3% 11%;max-width:1200px;background-color:$sci-white;
 // Mods to content area
 div.region.region-content {max-width:1900px; margin:auto;}
 div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {max-width:1200px; margin:-175px auto 50px auto;padding:40px;background-color:$sci-white;min-height:500px;}
-.main-container {background-color:$sci-white;margin-top:50px;}
+.main-container {background-color:$sci-white;margin-top:50px;padding:40px;}
 
 // Adjust z-index of core components.
 #overlay-container,

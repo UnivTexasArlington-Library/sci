@@ -5972,6 +5972,9 @@ header#navbar {
 #views-exposed-form-search-page-page > div > div > div > div#edit-search-api-views-fulltext-wrapper.views-exposed-widget.views-widget-filter-search_api_views_fulltext {
   padding: 0.4em 1em 0 0; }
 
+form#views-exposed-form-search-page-page .views-exposed-widgets {
+  border: 0; }
+
 #edit-submit-search-page {
   background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/search.png");
   background-repeat: no-repeat;
@@ -6098,7 +6101,8 @@ div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {
 
 .main-container {
   background-color: #fff;
-  margin-top: 50px; }
+  margin-top: 50px;
+  padding: 40px; }
 
 #overlay-container,
 .overlay-modal-background,
