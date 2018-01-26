@@ -6004,6 +6004,10 @@ form#views-exposed-form-search-page-page .views-exposed-widgets {
 .views-exposed-form .views-exposed-widget {
   padding-right: 0; }
 
+.views-exposed-widget.views-submit-button {
+  position: absolute;
+  right: 65px; }
+
 #views-exposed-form-search-page-home-page {
   /*max-width:800px;*/
   margin: auto; }

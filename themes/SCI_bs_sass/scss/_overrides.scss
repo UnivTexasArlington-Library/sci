@@ -187,6 +187,7 @@ form#views-exposed-form-search-page-page .views-exposed-widgets {border:0;}
 .btn-primary {background-color: $sci-search-bg;}
 .views-exposed-widgets {border: 5px solid $sci-darker;margin-top:-8px;}
 .views-exposed-form .views-exposed-widget {padding-right:0;}
+.views-exposed-widget.views-submit-button {position:absolute;right:65px;}
 #views-exposed-form-search-page-home-page {/*max-width:800px;*/ margin:auto;}
 #views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper {/*width:715px;*/ padding-top:5px;}
 #views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper > div > div > input {height:75px;font-size:20px;}
