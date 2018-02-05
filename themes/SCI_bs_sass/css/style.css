@@ -6153,16 +6153,14 @@ h2.pane-title {
   .input#edit-search-api-views-fulltext {
     height: auto;
     font-size: inherit;
-    margin-top: auto; }
+    margin-top: auto;
+    margin: auto;
+    height: 50px;
+    font-size: 16px; }
 
   button#edit-submit-search-page-home {
     width: 36px;
-    height: 36px; }
-
-  form#views-exposed-form-search-page-home-page {
-    margin: auto;
-    height: 50px;
-    font-size: 16px; } }
+    height: 36px; } }
 #overlay-container,
 .overlay-modal-background,
 .overlay-element {
