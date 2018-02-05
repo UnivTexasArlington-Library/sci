@@ -6129,6 +6129,9 @@ h1.page-header {
   border: 0;
   text-transform: uppercase; }
 
+h2.pane-title {
+  margin-left: 15px; }
+
 #overlay-container,
 .overlay-modal-background,
 .overlay-element {
