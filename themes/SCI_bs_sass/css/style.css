@@ -6134,7 +6134,16 @@ h2.pane-title {
 
 @media (max-width: 767px) {
   body {
-    background-size: cover; } }
+    background-size: 100%; }
+
+  .highlighted.jumbotron {
+    margin-top: 0; }
+
+  .teaser-bg {
+    height: auto; }
+
+  .center-wrapper {
+    margin: auto; } }
 #overlay-container,
 .overlay-modal-background,
 .overlay-element {

@@ -235,7 +235,12 @@ h1.page-header {border:0;text-transform:uppercase;}
 h2.pane-title {margin-left: 15px;}
 
 // Mods to screen sizes < 768px
-@media (max-width: $screen-xs-max) {body {background-size:cover;}}
+@media (max-width: $screen-xs-max) {
+	body {background-size:100%;}
+	.highlighted.jumbotron{margin-top:0;}
+	.teaser-bg {height:auto;}
+	.center-wrapper {margin:auto;}
+	}
 
 // Adjust z-index of core components.
 #overlay-container,
