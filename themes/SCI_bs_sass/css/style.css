@@ -6148,7 +6148,19 @@ h2.pane-title {
   .view-about-teaser {
     margin: auto -25px;
     padding: 20px;
-    background-color: #092a45; } }
+    background-color: #092a45; }
+
+  .input#edit-search-api-views-fulltext {
+    height: auto;
+    font-size: inherit;
+    margin-top: auto; }
+
+  button#edit-submit-search-page-home {
+    width: 36px;
+    height: 36px; }
+
+  form#views-exposed-form-search-page-home-page {
+    margin: auto; } }
 #overlay-container,
 .overlay-modal-background,
 .overlay-element {
