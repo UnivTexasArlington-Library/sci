@@ -6143,7 +6143,12 @@ h2.pane-title {
     height: auto; }
 
   .center-wrapper {
-    margin: auto; } }
+    margin: auto; }
+
+  .view-about-teaser {
+    margin: auto -25px;
+    padding: 20px;
+    background-color: #092a45; } }
 #overlay-container,
 .overlay-modal-background,
 .overlay-element {
