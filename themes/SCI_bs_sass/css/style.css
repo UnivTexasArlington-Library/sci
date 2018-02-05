@@ -6132,6 +6132,9 @@ h1.page-header {
 h2.pane-title {
   margin-left: 15px; }
 
+@media (max-width: 767px) {
+  body {
+    background-size: cover; } }
 #overlay-container,
 .overlay-modal-background,
 .overlay-element {
