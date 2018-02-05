@@ -6009,7 +6009,7 @@ form#views-exposed-form-search-page-page .views-exposed-widgets {
   right: 65px; }
 
 #views-exposed-form-search-page-home-page {
-  margin: -30px auto auto auto; }
+  margin: -15% auto auto auto; }
 
 #views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper {
   width: 100%;
@@ -6047,7 +6047,7 @@ form#views-exposed-form-search-page-page .views-exposed-widgets {
   height: 280px;
   background-color: #092a45;
   position: relative;
-  top: 800px; }
+  top: 715px; }
 
 .pane-about-teaser {
   min-height: 360px; }
