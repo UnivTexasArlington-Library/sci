@@ -234,6 +234,7 @@ div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {max-width:1
 .panel-panel.left.col-sm-3 {border-right: 1px solid $sci-bg;min-height:200px;}
 h1.page-header {border:0;text-transform:uppercase;}
 h2.pane-title {margin-left: 15px;}
+.bootstrap-threecol-stacked > div:nth-child(2) {background-color:$sci-white;}
 
 // Mods to screen sizes < 768px
 @media (max-width: $screen-xs-max) {

@@ -6132,6 +6132,9 @@ h1.page-header {
 h2.pane-title {
   margin-left: 15px; }
 
+.bootstrap-threecol-stacked > div:nth-child(2) {
+  background-color: #fff; }
+
 @media (max-width: 767px) {
   body {
     background-size: 100%;
