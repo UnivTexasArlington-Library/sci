@@ -6154,7 +6154,9 @@ h2.pane-title {
     height: auto;
     font-size: inherit;
     margin-top: auto;
-    margin: auto;
+    margin: auto; }
+
+  #views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper > div > div > input {
     height: 50px;
     font-size: 16px; }
 
