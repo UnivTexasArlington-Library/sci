@@ -6108,6 +6108,9 @@ footer.footer {
   left: 79%;
   z-index: -1; }
 
+body.html.front > footer.footer {
+  margin-top: 0; }
+
 div.region.region-content {
   max-width: 1900px;
   margin: auto; }
@@ -6245,7 +6248,7 @@ h2.pane-title {
   z-index: 1610; }
 
 .footer {
-  margin-top: 0;
+  margin-top: 45px;
   padding-top: 35px;
   padding-bottom: 36px;
   border-top: 1px solid #E5E5E5; }
