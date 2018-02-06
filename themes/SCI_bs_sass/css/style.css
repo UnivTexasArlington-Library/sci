@@ -6175,7 +6175,15 @@ h2.pane-title {
 
   #edit-submit-search-page-home.btn.btn-primary.form-submit {
     width: 36px;
-    height: 36px; } }
+    height: 36px; }
+
+  .navbar-header.home {
+    min-height: 100px; }
+
+  button.navbar-toggle {
+    position: absolute;
+    top: 60px;
+    right: 0; } }
 #overlay-container,
 .overlay-modal-background,
 .overlay-element {
