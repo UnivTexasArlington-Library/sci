@@ -6134,7 +6134,11 @@ h2.pane-title {
 
 @media (max-width: 767px) {
   body {
-    background-size: 100%; }
+    background-size: 100%;
+    background-position: center 10%; }
+
+  header.navbar-default {
+    background-color: #092a45; }
 
   .highlighted.jumbotron {
     margin-top: 0; }

@@ -236,7 +236,8 @@ h2.pane-title {margin-left: 15px;}
 
 // Mods to screen sizes < 768px
 @media (max-width: $screen-xs-max) {
-	body {background-size:100%;}
+	body {background-size:100%;background-position:center 10%;}
+	header.navbar-default {background-color:$sci-dark;}
 	.highlighted.jumbotron{margin-top:0;}
 	.region.region-highlighted {max-width:80%;margin:auto;}
 	.teaser-bg {height:auto;}
