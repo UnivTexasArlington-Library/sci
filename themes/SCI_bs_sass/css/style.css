@@ -6150,7 +6150,8 @@ h2.pane-title {
     font-size: 11px; }
 
   #libraries-logo img {
-    max-width: 250px; }
+    max-width: 250px;
+    float: left; }
 
   .highlighted.jumbotron {
     margin-top: 0; }
