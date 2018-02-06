@@ -220,7 +220,7 @@ div.panel-pane.pane-views-panes.pane-home-blocks-panel-pane-1 > div > div > div 
 .front .main-container {background:transparent;margin-top:0;}
 
 // Mods to home page slogan
-div.panel-col-bottom {max-width:900px;margin:auto;text-align:center;font-family: 'Dancing Script', cursive;font-size:30px;padding:30px 0;color:$sci-dark-link;position:relative; top:-80px;}
+.panel-panel.bottom.col-sm-12 {max-width:900px;margin:auto;text-align:center;font-family: 'Dancing Script', cursive;font-size:30px;padding:30px 0;color:$sci-dark-link;position:relative; top:-80px;}
 
 // Mods to footer
 footer.footer {padding:3% 0 3% 11%;max-width:1200px;background-color:$sci-white;}

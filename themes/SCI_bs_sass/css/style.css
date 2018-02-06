@@ -6081,7 +6081,7 @@ div.panel-pane.pane-views-panes.pane-home-blocks-panel-pane-1 > div > div > div 
   background: transparent;
   margin-top: 0; }
 
-div.panel-col-bottom {
+.panel-panel.bottom.col-sm-12 {
   max-width: 900px;
   margin: auto;
   text-align: center;
