@@ -6133,7 +6133,13 @@ h2.pane-title {
   margin-left: 15px; }
 
 .bootstrap-threecol-stacked > div:nth-child(2) {
-  background-color: #fff; }
+  background-color: #fff;
+  padding: 30px;
+  position: relative;
+  top: -170px; }
+
+.view.view-about-teaser.view-id-about_teaser.view-display-id-block {
+  padding-top: 40px; }
 
 @media (max-width: 767px) {
   body {
