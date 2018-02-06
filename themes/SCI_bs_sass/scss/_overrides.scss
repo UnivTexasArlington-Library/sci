@@ -258,6 +258,12 @@ h2.pane-title {margin-left: 15px;}
 	.navbar-header.home {min-height:100px;}
 	button.navbar-toggle {position:absolute;top:60px;right:0;}
 	}
+	
+// Mods to screen sizes 479px and lower
+@media (max-width: $screen-xs-max) {
+	.navbar-header img {max-width:120px;}
+	#libraries-logo img {max-width:220px;}
+ }
 
 // Adjust z-index of core components.
 #overlay-container,

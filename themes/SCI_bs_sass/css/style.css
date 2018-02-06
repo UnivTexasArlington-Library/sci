@@ -6205,6 +6205,12 @@ h2.pane-title {
     position: absolute;
     top: 60px;
     right: 0; } }
+@media (max-width: 767px) {
+  .navbar-header img {
+    max-width: 120px; }
+
+  #libraries-logo img {
+    max-width: 220px; } }
 #overlay-container,
 .overlay-modal-background,
 .overlay-element {
