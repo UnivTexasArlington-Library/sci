@@ -6140,6 +6140,12 @@ h2.pane-title {
   header.navbar-default {
     background-color: #092a45; }
 
+  .navbar-header img {
+    max-width: 150px; }
+
+  #libraries-logo img {
+    max-width: 250px; }
+
   .highlighted.jumbotron {
     margin-top: 0; }
 
