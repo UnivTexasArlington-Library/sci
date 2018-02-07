@@ -6063,7 +6063,8 @@ body.page-search > div.main-container > div.row > aside.col-sm-3 > div.region-si
   min-height: 120px; }
 
 ul#facetapi-facet-search-apisearch-node-block-field-item-type {
-  padding-left: 0; }
+  padding-left: 0;
+  font-size: 88%; }
 
 .highlighted {
   margin-top: 260px;
