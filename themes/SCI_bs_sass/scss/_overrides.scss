@@ -154,8 +154,8 @@ header a {text-decoration:none;}
 	}
 
 // Mods to header and navbar
-#wordmark {float:left;color:$sci-white;}
-#topname {font-size:200%;text-transform:uppercase;border-bottom:1px solid $sci-white;padding-bottom:10px;letter-spacing:2px;}
+#wordmark {float:left;color:$sci-white;padding-left:15px;padding-top:2px;}
+#topname {text-transform:uppercase;border-bottom:1px solid $sci-white;padding-bottom:10px;padding-top:8px;letter-spacing:2px;line-height:1;font-size:226%;}
 .navbar-brand:hover #topname {border-bottom:1px solid $sci-light-link;}
 #bottomname {font-size: 14px;}
 .navbar-default {border:0;}
@@ -163,8 +163,6 @@ header a {text-decoration:none;}
 .navbar-default .navbar-brand:hover {color:$sci-light-link;}
 .navbar-header {float:none;margin-bottom:15px;margin-top:5px;}
 .navbar-header img {max-width:200px;}
-.navbar-header > div#wordmark > div#topname {line-height:1;padding-bottom:2px;padding-top:8px;font-size:226%;}
-.navbar-header > div#wordmark {padding-left:15px;padding-top:2px;}
 .navbar-header > img.logo {padding-right:0;}
 section#block-superfish-1 {float:left;}
 section#block-views-exp-search-page-page {float:right;}

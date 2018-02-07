@@ -5903,14 +5903,18 @@ header a {
 
 #wordmark {
   float: left;
-  color: #fff; }
+  color: #fff;
+  padding-left: 15px;
+  padding-top: 2px; }
 
 #topname {
-  font-size: 200%;
   text-transform: uppercase;
   border-bottom: 1px solid #fff;
   padding-bottom: 10px;
-  letter-spacing: 2px; }
+  padding-top: 8px;
+  letter-spacing: 2px;
+  line-height: 1;
+  font-size: 226%; }
 
 .navbar-brand:hover #topname {
   border-bottom: 1px solid #f5d300; }
@@ -5934,16 +5938,6 @@ header a {
 
 .navbar-header img {
   max-width: 200px; }
-
-.navbar-header > div#wordmark > div#topname {
-  line-height: 1;
-  padding-bottom: 2px;
-  padding-top: 8px;
-  font-size: 226%; }
-
-.navbar-header > div#wordmark {
-  padding-left: 15px;
-  padding-top: 2px; }
 
 .navbar-header > img.logo {
   padding-right: 0; }
