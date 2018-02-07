@@ -6098,7 +6098,7 @@ footer.footer {
   max-width: 1200px;
   background-color: #fff; }
 
-div.region.region-footer > section#block-block.block-block.clearfix > div.row > div.col-md-6:nth-child(2) {
+div.region.region-footer > section#block-block.block-block.clearfix > div.row > div:nth-child(2) {
   border-left: 1px solid #e8e8e8; }
 
 #bottom-image {

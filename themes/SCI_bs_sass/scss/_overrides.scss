@@ -225,7 +225,7 @@ div.panel-pane.pane-views-panes.pane-home-blocks-panel-pane-1 > div > div > div 
 
 // Mods to footer
 footer.footer {padding:3%;max-width:1200px;background-color:$sci-white;}
-div.region.region-footer > section#block-block.block-block.clearfix > div.row > div.col-md-6:nth-child(2) {border-left: 1px solid $sci-bg;}
+div.region.region-footer > section#block-block.block-block.clearfix > div.row > div:nth-child(2) {border-left: 1px solid $sci-bg;}
 #bottom-image {max-height:80px;}
 #bottom-image img {max-width:224px;position:relative;top:-360px;left:79%;z-index:-1;}
 body.html.front > footer.footer {margin-top:-40px;}
