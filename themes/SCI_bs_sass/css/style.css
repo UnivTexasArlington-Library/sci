@@ -5938,6 +5938,9 @@ header a {
 .navbar-default .navbar-brand:hover {
   color: #f5d300; }
 
+.navbar-header.home div#topname {
+  padding-top: 8px; }
+
 .navbar-header {
   float: none;
   margin-bottom: 15px;
