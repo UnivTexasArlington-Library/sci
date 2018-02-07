@@ -6062,6 +6062,9 @@ body.page-search > div.main-container > div.row > aside.col-sm-3 > div.region-si
 .panels-flexible-region.panels-flexible-region-search_results-left_document_cover.panels-flexible-region-first.col-md-2.col-sm-2.col-xs-2 {
   min-height: 120px; }
 
+ul#facetapi-facet-search-apisearch-node-block-field-item-type {
+  padding-left: 0; }
+
 .highlighted {
   margin-top: 260px;
   background-color: transparent; }
