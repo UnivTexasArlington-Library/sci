@@ -163,7 +163,7 @@ header a {text-decoration:none;}
 .navbar-default .navbar-brand:hover {color:$sci-light-link;}
 .navbar-header {float:none;margin-bottom:15px;margin-top:5px;}
 .navbar-header img {max-width:200px;}
-.navbar-header.home > div#wordmark > div#topname {line-height:1;padding-bottom:2px;padding-top:5px;font-size:226%;}
+.navbar-header.home > div#wordmark > div#topname {line-height:1;padding-bottom:2px;padding-top:8px;font-size:226%;}
 .navbar-header.home > div#wordmark {padding-left:15px;padding-top:2px;}
 .navbar-header.home > img.logo {padding-right:0;}
 section#block-superfish-1 {float:left;}
@@ -185,6 +185,7 @@ form#views-exposed-form-search-page-page .views-exposed-widgets {border:0;}
     background-size: 25px 25px;
 	background-position:center center;
 	}
+section#block-views-exp-search-page-page {margin-top:5px;}
 .btn-primary {background-color: $sci-search-bg;}
 .views-exposed-widgets {border: 5px solid $sci-darker;margin-top:-8px;}
 .views-exposed-form .views-exposed-widget {padding-right:0;}

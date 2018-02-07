@@ -5938,7 +5938,7 @@ header a {
 .navbar-header.home > div#wordmark > div#topname {
   line-height: 1;
   padding-bottom: 2px;
-  padding-top: 5px;
+  padding-top: 8px;
   font-size: 226%; }
 
 .navbar-header.home > div#wordmark {
@@ -5993,6 +5993,9 @@ form#views-exposed-form-search-page-page .views-exposed-widgets {
   background-repeat: no-repeat;
   background-size: 25px 25px;
   background-position: center center; }
+
+section#block-views-exp-search-page-page {
+  margin-top: 5px; }
 
 .btn-primary {
   background-color: #094fa4; }
