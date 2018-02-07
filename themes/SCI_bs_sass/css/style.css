@@ -5910,7 +5910,6 @@ header a {
   text-transform: uppercase;
   border-bottom: 1px solid #fff;
   padding-bottom: 10px;
-  padding-top: 8px;
   letter-spacing: 2px; }
 
 .navbar-brand:hover #topname {
@@ -5939,6 +5938,7 @@ header a {
 .navbar-header.home > div#wordmark > div#topname {
   line-height: 1;
   padding-bottom: 2px;
+  padding-top: 8px;
   font-size: 226%; }
 
 .navbar-header.home > div#wordmark {
@@ -6167,7 +6167,7 @@ h2.pane-title {
   .navbar-header img {
     max-width: 150px; }
 
-  #topname {
+  .navbar-header.home > div#wordmark > div#topname {
     font-size: 175%;
     padding-top: 2px; }
 
