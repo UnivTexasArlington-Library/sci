@@ -6046,6 +6046,15 @@ section#block-views-exp-search-page-page {
 body.page-search > div.main-container > div.row > aside.col-sm-3 > div.region-sidebar-first {
   background-color: transparent; }
 
+.region-sidebar-first h2.block-title {
+  font-size: 120%; }
+
+.region.region-sidebar-first.well {
+  padding: 10px;
+  background-color: #fff;
+  border-right: 1px solid #e8e8e8;
+  box-shadow: none; }
+
 .highlighted {
   margin-top: 260px;
   background-color: transparent; }

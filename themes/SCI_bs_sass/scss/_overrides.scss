@@ -206,6 +206,8 @@ section#block-views-exp-search-page-page {margin-top:5px;}
 	
 // Mods to search filters
 body.page-search > div.main-container > div.row > aside.col-sm-3 > div.region-sidebar-first {background-color:transparent;}
+.region-sidebar-first h2.block-title {font-size:120%;}
+.region.region-sidebar-first.well {padding:10px;background-color:$sci-white;border-right:1px solid $sci-bg;box-shadow:none;}
 
 // Mods to highlighted area
 .highlighted {margin-top:260px;background-color:transparent;}
