@@ -5918,7 +5918,8 @@ header a {
 
 .navbar-brand {
   padding: 0;
-  font-size: inherit; }
+  font-size: inherit;
+  margin-left: 15px; }
 
 .navbar-brand:hover #topname {
   border-bottom: 1px solid #f5d300; }
