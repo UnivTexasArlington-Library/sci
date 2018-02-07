@@ -6043,6 +6043,9 @@ section#block-views-exp-search-page-page {
   background-size: 50px 50px;
   background-position: center center; }
 
+body.page-search > div.main-container > div.row > aside.col-sm-3 > div.region-sidebar-first {
+  background-color: transparent; }
+
 .highlighted {
   margin-top: 260px;
   background-color: transparent; }

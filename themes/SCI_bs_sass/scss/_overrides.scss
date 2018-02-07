@@ -203,6 +203,9 @@ section#block-views-exp-search-page-page {margin-top:5px;}
     background-size: 50px 50px;
 	background-position:center center;
 	}
+	
+// Mods to search filters
+body.page-search > div.main-container > div.row > aside.col-sm-3 > div.region-sidebar-first {background-color:transparent;}
 
 // Mods to highlighted area
 .highlighted {margin-top:260px;background-color:transparent;}
