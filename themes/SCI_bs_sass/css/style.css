@@ -6260,6 +6260,10 @@ h2.pane-title {
 
   #libraries-logo img {
     max-width: 220px; } }
+.flex-direction-nav {
+  display: block !important;
+  opacity: 1 !important; }
+
 #overlay-container,
 .overlay-modal-background,
 .overlay-element {

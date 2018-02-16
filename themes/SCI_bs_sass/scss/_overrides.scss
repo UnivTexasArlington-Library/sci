@@ -280,6 +280,9 @@ h2.pane-title {margin-left: 15px;}
 	.navbar-header img {max-width:120px;}
 	#libraries-logo img {max-width:220px;}
  }
+ 
+// Mods to Flexslider
+.flex-direction-nav {display:block !important;opacity:1 !important}
 
 // Adjust z-index of core components.
 #overlay-container,
