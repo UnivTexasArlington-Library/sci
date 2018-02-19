@@ -6260,7 +6260,7 @@ h2.pane-title {
 
   #libraries-logo img {
     max-width: 220px; } }
-.flex-direction-nav {
+.flex-direction-nav a {
   display: block !important;
   opacity: 1 !important; }
 
