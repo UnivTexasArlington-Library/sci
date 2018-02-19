@@ -5954,7 +5954,9 @@ h1.pane-title, .pane-content h1 {
   margin-top: 5px; }
 
 .navbar-header img {
-  max-width: 200px; }
+  max-width: 200px;
+  margin-left: 15px;
+  margin-top: -2px; }
 
 .navbar-header > img.logo {
   padding-right: 0; }
