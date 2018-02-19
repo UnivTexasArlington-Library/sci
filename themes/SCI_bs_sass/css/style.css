@@ -6260,11 +6260,9 @@ h2.pane-title {
 
   #libraries-logo img {
     max-width: 220px; } }
-/* .flex-direction-nav a {display:block !important;opacity:1 !important;} */
-.flexslider .flex-direction-nav a,
 .flexslider .flex-direction-nav a {
   display: block;
-  /* I added this line */ }
+  min-height: 76px; }
 
 .flex-direction-nav .flex-next {
   right: 0 !important;
