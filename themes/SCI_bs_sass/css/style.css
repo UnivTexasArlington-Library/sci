@@ -6262,7 +6262,8 @@ h2.pane-title {
     max-width: 220px; } }
 .flex-direction-nav > li.flex-nav-next > a.flex-next {
   display: block !important;
-  opacity: 1 !important; }
+  opacity: 1 !important;
+  right: 50px; }
 
 #overlay-container,
 .overlay-modal-background,
