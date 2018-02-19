@@ -282,7 +282,16 @@ h2.pane-title {margin-left: 15px;}
  }
  
 // Mods to Flexslider
-.flex-direction-nav a {display:block !important;opacity:1 !important;}
+/* .flex-direction-nav a {display:block !important;opacity:1 !important;} */
+
+.flexslider .flex-direction-nav a,
+.flexslider .flex-direction-nav a {
+display: block; /* I added this line */
+}
+
+.flex-direction-nav .flex-next { right: 0 !important; margin-right: -40px; opacity: 1 !important; }
+.flex-direction-nav .flex-prev { left: 0 !important; opacity: 1 !important; margin-left: -40px; }
+.flexslider { width: 90%; margin: 0 auto; }
 
 // Adjust z-index of core components.
 #overlay-container,
