@@ -5901,7 +5901,7 @@ header a {
   padding-left: 40px;
   padding-right: 40px; }
 
-h1.pane-title {
+h1.pane-title, .pane-content h1 {
   text-transform: uppercase;
   padding-bottom: 9px;
   margin: 40px 0 20px;
