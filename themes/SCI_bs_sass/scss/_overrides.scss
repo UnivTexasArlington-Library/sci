@@ -156,7 +156,7 @@ h1.pane-title, .pane-content h1 {text-transform:uppercase;padding-bottom:9px;mar
 
 // Mods to header and navbar
 #wordmark {float:left;color:$sci-white;padding-left:15px;padding-top:2px;}
-#topname {text-transform:uppercase;border-bottom:1px solid $sci-white;padding-bottom:1px;padding-top:10px;letter-spacing:2px;line-height:1;font-size:226%;}
+#topname {text-transform:uppercase;border-bottom:1px solid $sci-white;padding-bottom:1px;padding-top:12px;letter-spacing:2px;line-height:1;font-size:226%;}
 .navbar-brand {padding:0;font-size:inherit;}
 .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {margin-left:0;}
 .navbar-brand:hover #topname {border-bottom:1px solid $sci-light-link;}
@@ -279,6 +279,7 @@ h2.pane-title {margin-left: 15px;}
 // Mods to screen sizes 479px and lower
 @media (max-width: $screen-xs-max) {
 	.navbar-header img {max-width:120px;}
+	#libraries-logo {width:100%}
 	#libraries-logo img {max-width:220px;}
  }
  

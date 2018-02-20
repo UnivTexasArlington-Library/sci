@@ -5918,7 +5918,7 @@ h1.pane-title, .pane-content h1 {
   text-transform: uppercase;
   border-bottom: 1px solid #fff;
   padding-bottom: 1px;
-  padding-top: 10px;
+  padding-top: 12px;
   letter-spacing: 2px;
   line-height: 1;
   font-size: 226%; }
@@ -6265,6 +6265,9 @@ h2.pane-title {
 @media (max-width: 767px) {
   .navbar-header img {
     max-width: 120px; }
+
+  #libraries-logo {
+    width: 100%; }
 
   #libraries-logo img {
     max-width: 220px; } }
