@@ -6268,7 +6268,10 @@ h2.pane-title {
 
   #libraries-logo img {
     max-width: 220px;
-    margin-right: 350px; } }
+    margin-right: 350px; }
+
+  body {
+    background-position: center 5%; } }
 .flexslider .flex-direction-nav a {
   display: block;
   min-height: 76px; }
