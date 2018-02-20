@@ -100,6 +100,12 @@
       <?php endif; ?>
     </div>
 
+	<?php if ($page['superfish']): ?>
+      <div id="superfish"><div class="section">
+        <?php print render($page['superfish']); ?>
+      </div></div> <!-- /.section, /#superfish -->
+    <?php endif; ?>  
+	
     <?php if (!empty($primary_nav) || !empty($secondary_nav) || !empty($page['navigation'])): ?>
       <div class="navbar-collapse collapse" id="navbar-collapse">
         <nav role="navigation">
@@ -128,11 +134,7 @@
     <?php print render($page['header']); ?>
   </header> <!-- /#page-header -->
 
-<?php if ($page['superfish']): ?>
-      <div id="superfish"><div class="section">
-        <?php print render($page['superfish']); ?>
-      </div></div> <!-- /.section, /#superfish -->
-    <?php endif; ?>  
+
   
   
   <div class="row">
