@@ -279,8 +279,7 @@ h2.pane-title {margin-left: 15px;}
 // Mods to screen sizes 479px and lower
 @media (max-width: $screen-xs-max) {
 	.navbar-header img {max-width:120px;}
-	#libraries-logo {width:100%}
-	#libraries-logo img {max-width:220px;}
+	#libraries-logo img {max-width:220px;margin-right:350px;}
  }
  
 // Mods to Flexslider

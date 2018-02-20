@@ -6266,11 +6266,9 @@ h2.pane-title {
   .navbar-header img {
     max-width: 120px; }
 
-  #libraries-logo {
-    width: 100%; }
-
   #libraries-logo img {
-    max-width: 220px; } }
+    max-width: 220px;
+    margin-right: 350px; } }
 .flexslider .flex-direction-nav a {
   display: block;
   min-height: 76px; }
