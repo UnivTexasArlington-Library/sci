@@ -6273,7 +6273,10 @@ h2.pane-title {
     margin-right: 350px; }
 
   body {
-    background-position: center 5%; } }
+    background-position: center 5%; }
+
+  .main-container {
+    padding: 0; } }
 .flexslider .flex-direction-nav a {
   display: block;
   min-height: 76px; }
