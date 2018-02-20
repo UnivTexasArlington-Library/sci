@@ -5885,7 +5885,9 @@ body {
 body {
   background-color: #e8e8e8;
   font-family: 'Raleway', sans-serif;
-  font-size: 16px; }
+  font-size: 16px;
+  background-repeat: no-repeat;
+  background-position: center top; }
 
 a {
   color: #094fa4;

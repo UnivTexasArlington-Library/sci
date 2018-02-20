@@ -142,7 +142,7 @@ $sci-dark-link: #094fa4;
 $sci-light-link: #f5d300;
 
 // Mods to body and elements
-body {background-color: $sci-bg;font-family: 'Raleway', sans-serif;font-size:16px;}
+body {background-color: $sci-bg;font-family: 'Raleway', sans-serif;font-size:16px;background-repeat: no-repeat;background-position: center top;}
 a {color:$sci-dark-link;text-decoration:underline;}
 header a {text-decoration:none;}
 .col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, 
