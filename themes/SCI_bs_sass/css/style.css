@@ -5957,8 +5957,7 @@ h1.pane-title, .pane-content h1 {
 
 .navbar-header img {
   max-width: 200px;
-  margin-left: 15px;
-  margin-top: 15px; }
+  margin-left: 15px; }
 
 .navbar-header > img.logo {
   padding-right: 0; }
@@ -5984,15 +5983,16 @@ header#navbar {
 #libraries-logo img {
   float: right;
   max-width: 300px;
-  margin-right: 25px; }
+  margin-right: 25px;
+  margin-top: 15px; }
 
 #superfish {
   max-width: 1200px;
   margin: auto; }
 
 #edit-submit-search-page {
-  margin-top: -8px;
-  margin-left: -18px; }
+  margin-top: -7px;
+  margin-left: -19px; }
 
 #edit-submit-search-page.btn.btn-primary.form-submit {
   width: 35px;

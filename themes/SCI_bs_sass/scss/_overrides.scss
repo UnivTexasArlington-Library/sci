@@ -166,20 +166,20 @@ h1.pane-title, .pane-content h1 {text-transform:uppercase;padding-bottom:9px;mar
 .navbar-default .navbar-brand:hover {color:$sci-light-link;}
 .navbar-header.home div#topname {padding-top:8px;}
 .navbar-header {float:none;margin-bottom:15px;margin-top:5px;}
-.navbar-header img {max-width:200px;margin-left:15px;margin-top:15px;}
+.navbar-header img {max-width:200px;margin-left:15px;}
 .navbar-header > img.logo {padding-right:0;}
 section#block-superfish-1 {float:left;}
 section#block-views-exp-search-page-page {float:right;}
 #navbar-collapse {margin: 0 auto 0 auto;max-width:1200px;}
 header.navbar-default {background-color: $sci-dark-transparent;}
 header#navbar {max-width:1900px;width:100%;padding:0;}
-#libraries-logo img {float:right;max-width:300px;margin-right:25px;}
+#libraries-logo img {float:right;max-width:300px;margin-right:25px;margin-top:15px;}
 
 //Mods to superfish region
 #superfish {max-width:1200px;margin:auto;}
 
 // Mods to search boxes, buttons
-#edit-submit-search-page {margin-top:-8px;margin-left:-18px;}
+#edit-submit-search-page {margin-top:-7px;margin-left:-19px;}
 #edit-submit-search-page.btn.btn-primary.form-submit {width:35px; height:35px;}
 #edit-search-api-views-fulltext {margin-top:-5px;}
 #views-exposed-form-search-page-page > div > div > div > div#edit-search-api-views-fulltext-wrapper.views-exposed-widget.views-widget-filter-search_api_views_fulltext {padding:0.4em 1em 0 0;}
