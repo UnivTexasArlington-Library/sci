@@ -284,12 +284,13 @@ h2.pane-title {margin-left: 15px;}
 @media (max-width: $screen-xs-max) {
 	.navbar-header img {max-width:120px;}
 	#libraries-logo img {max-width:220px;margin-right:350px;}
+	body {background-position:center 5%;}
 	.main-container {padding:0;}
 	.view-about-teaser {min-height:450px;}
 	.view.view-about-teaser.view-id-about_teaser.view-display-id-block {padding:40px;}
 	#views-exposed-form-search-page-home-page {display:none;}
 	#backtotop {background: url(https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/back-to-top-sm.png) no-repeat center center;}
-	h1.page-header {font-size:120%;}
+	h1.page-header {font-size:150%;margin-top:20px;}
 	#bottom-image {display:none;}
  }
  
