@@ -5993,6 +5993,9 @@ header#navbar {
   max-width: 1200px;
   margin: auto; }
 
+#superfish-1 ul {
+  left: 15px; }
+
 #edit-submit-search-page {
   margin-top: -7px;
   margin-left: -19px; }
