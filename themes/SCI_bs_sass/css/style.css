@@ -6283,6 +6283,12 @@ h2.pane-title {
   body {
     background-position: center 5%; }
 
+  body background {
+    display: none; }
+
+  body.page-home background {
+    display: initial; }
+
   .main-container {
     padding: 0; }
 
