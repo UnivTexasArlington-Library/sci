@@ -6123,7 +6123,7 @@ ul#facetapi-facet-search-apisearch-node-block-field-item-type {
 .more-link {
   max-width: 900px;
   text-align: right;
-  margin: -25px auto auto auto; }
+  margin: auto; }
 
 div.panel-pane.pane-views-panes.pane-home-blocks-panel-pane-1 > div > div > div > div > img {
   margin: auto; }
