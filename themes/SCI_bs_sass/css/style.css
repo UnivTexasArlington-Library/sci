@@ -5997,10 +5997,10 @@ header#navbar {
   left: 15px; }
 
 div.sf-accordion-toggle.sf-style-none a {
-  border: 0;
+  border: 0 !important;
   margin-left: 15px; }
 
-ul.sf-menu.sf-accordion.sf-expanded, ul.sf-menu.sf-accordion li.sf-expanded > ul {
+ul.sf-menu.sf-accordion.sf-expanded, ul.sf-menu.sf-accordion li.sf-expanded {
   left: 15px !important;
   top: 15px !important; }
 
