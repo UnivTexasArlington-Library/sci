@@ -5910,6 +5910,9 @@ h1.pane-title, .pane-content h1 {
   margin-top: 0;
   font-size: 36px; }
 
+#backtotop {
+  background: url(https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/back-to-top.png) no-repeat center center; }
+
 #wordmark {
   float: left;
   color: #fff;
