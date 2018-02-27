@@ -85,7 +85,7 @@
 		 <div id="topname">archive</div>
 		<div id="bottomname">Society of Composers, Inc.</div>
 		</div>
-		<div id="libraries-logo"><a href="//library.uta.edu/"><img src="/sci/sites/library-test.uta.edu.sci/files/uta-library-logo.png" /></a></div>
+		<div id="libraries-logo"><a href="//library.uta.edu/"><img alt="UTA Libraries logo" src="/sci/sites/library-test.uta.edu.sci/files/uta-library-logo.png" /></a></div>
 	  <?php endif; ?>
 
       <?php if (!empty($primary_nav) || !empty($secondary_nav) || !empty($page['navigation'])): ?>
@@ -178,5 +178,5 @@
   <footer class="footer <?php print $container_class; ?>">
     <?php print render($page['footer']); ?>
   </footer>
-  <div id="bottom-image"><img src="/sci/sites/library-test.uta.edu.sci/files/headphones.png" /></div>
+  <div id="bottom-image"><img alt="audio headphones" src="/sci/sites/library-test.uta.edu.sci/files/headphones.png" /></div>
 <?php endif; ?>
