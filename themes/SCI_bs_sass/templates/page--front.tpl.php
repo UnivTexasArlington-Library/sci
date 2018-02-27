@@ -77,7 +77,7 @@
   <div class="<?php print $container_class; ?>">
     <div class="navbar-header home">
       <?php if ($logo): ?>
-         <img class="logo navbar-btn pull-left" src="<?php print $logo; ?>" alt="<?php print t('Home'); ?>" />
+         <img class="logo navbar-btn pull-left" src="<?php print $logo; ?>" alt="<?php print t('SCI logo'); ?>" />
       <?php endif; ?>
 
       <?php if (!empty($site_name)): ?>
