@@ -6286,11 +6286,23 @@ h2.pane-title {
   .main-container {
     padding: 0; }
 
+  .view-about-teaser {
+    min-height: 450px; }
+
   .view.view-about-teaser.view-id-about_teaser.view-display-id-block {
     padding: 40px; }
 
+  #views-exposed-form-search-page-home-page {
+    display: none; }
+
   #backtotop {
-    background: url(https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/back-to-top-sm.png) no-repeat center center; } }
+    background: url(https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/back-to-top-sm.png) no-repeat center center; }
+
+  h1.page-header {
+    font-size: 120%; }
+
+  #bottom-image {
+    display: none; } }
 .flexslider .flex-direction-nav a {
   display: block;
   min-height: 76px; }
