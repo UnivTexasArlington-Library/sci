@@ -64,12 +64,12 @@
   text-decoration:none;
 }
 
-.sf-menu.sf-style-none li.active-trail > a {border-bottom: 1px solid white;}
+.sf-menu.sf-style-none li.active-trail > a {border-bottom: 0;}
 
 .sf-menu.sf-style-none.sf-navbar li ul {
   /*background-color: #3270c5;*/
-   background-color: $sci-bg;
-  top:3.5em;
+   background-color: $sci-white;
+  top:3em;
 }
 .sf-menu.sf-style-none.sf-navbar li ul a {color:$sci-dark;}
 
