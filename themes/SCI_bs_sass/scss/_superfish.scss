@@ -72,6 +72,8 @@
   top:3em;
 }
 .sf-menu.sf-style-none.sf-navbar li ul a {color:$sci-dark;}
+.sf-menu.sf-style-none.sf-navbar li ul a:hover {color:$sci-light-link;}
+
 
 .sf-menu.sf-style-none.sf-navbar li ul li ul {
   background-color: transparent;

@@ -6991,6 +6991,9 @@ a.icon-after .glyphicon {
 .sf-menu.sf-style-none.sf-navbar li ul a {
   color: #092a45; }
 
+.sf-menu.sf-style-none.sf-navbar li ul a:hover {
+  color: #f5d300; }
+
 .sf-menu.sf-style-none.sf-navbar li ul li ul {
   background-color: transparent; }
 
