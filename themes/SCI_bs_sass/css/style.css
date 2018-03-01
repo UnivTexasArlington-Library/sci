@@ -6122,6 +6122,9 @@ ul#facetapi-facet-search-apisearch-node-block-field-item-type {
   max-width: 1200px;
   margin: 20px auto; }
 
+.view-about-teaser p {
+  margin: 0 -20px; }
+
 .view-id-about_teaser a, .more-link a {
   color: #f5d300;
   text-decoration: underline; }
