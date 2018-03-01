@@ -6039,7 +6039,7 @@ section#block-views-exp-search-page-page {
   background-color: #094fa4; }
 
 .views-exposed-widgets {
-  border: 5px solid #041421;
+  border: 1px solid #041421;
   margin-top: -8px; }
 
 .views-exposed-form .views-exposed-widget {
@@ -6061,10 +6061,10 @@ section#block-views-exp-search-page-page {
   font-size: 20px; }
 
 #edit-submit-search-page-home {
-  margin-top: -7px; }
+  margin-top: -8px; }
 
 #edit-submit-search-page-home {
-  margin-top: -8px;
+  margin-top: -9px;
   margin-left: 0; }
 
 #edit-submit-search-page-home.btn.btn-primary.form-submit {

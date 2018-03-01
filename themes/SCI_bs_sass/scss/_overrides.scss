@@ -197,14 +197,14 @@ form#views-exposed-form-search-page-page .views-exposed-widgets {border:0;}
 	}
 section#block-views-exp-search-page-page {margin-top:5px;}
 .btn-primary {background-color: $sci-search-bg;}
-.views-exposed-widgets {border: 5px solid $sci-darker;margin-top:-8px;}
+.views-exposed-widgets {border: 1px solid $sci-darker;margin-top:-8px;}
 .views-exposed-form .views-exposed-widget {padding-right:0;}
 #views-exposed-form-search-page-home-page > div > div > div > div.views-exposed-widget.views-submit-button {position:absolute;right:65px;}
 #views-exposed-form-search-page-home-page {margin:-15% auto auto auto;}
 #views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper {width:100%; padding-top:5px;}
 #views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper > div > div > input {height:75px;font-size:20px;}
-#edit-submit-search-page-home {margin-top:-7px;}
-#edit-submit-search-page-home {margin-top:-8px;margin-left:0;}
+#edit-submit-search-page-home {margin-top:-8px;}
+#edit-submit-search-page-home {margin-top:-9px;margin-left:0;}
 #edit-submit-search-page-home.btn.btn-primary.form-submit {width:75px; height:75px;}
 #edit-submit-search-page-home { 
 	background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/search.png");
