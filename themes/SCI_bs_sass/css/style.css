@@ -5885,7 +5885,7 @@ body {
 body {
   background-color: #e8e8e8;
   font-family: 'Raleway', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   background-repeat: no-repeat;
   background-position: center top; }
 
@@ -5908,7 +5908,7 @@ h1.pane-title, .pane-content h1 {
   padding-bottom: 9px;
   margin: 40px 0 20px;
   margin-top: 0;
-  font-size: 36px; }
+  font-size: 30px; }
 
 #backtotop {
   background: url(https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/back-to-top.png) no-repeat center center; }
@@ -5965,9 +5965,6 @@ h1.pane-title, .pane-content h1 {
 .navbar-header > img.logo {
   padding-right: 0; }
 
-section#block-superfish-1 {
-  float: left; }
-
 section#block-views-exp-search-page-page {
   float: right; }
 
@@ -5988,6 +5985,10 @@ header#navbar {
   max-width: 300px;
   margin-right: 25px;
   margin-top: 15px; }
+
+section#block-superfish-1 {
+  float: left;
+  font-size: 20px; }
 
 #superfish {
   max-width: 1200px;

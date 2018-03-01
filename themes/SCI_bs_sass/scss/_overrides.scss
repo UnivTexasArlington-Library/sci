@@ -142,7 +142,7 @@ $sci-dark-link: #094fa4;
 $sci-light-link: #f5d300;
 
 // Mods to body and elements
-body {background-color: $sci-bg;font-family: 'Raleway', sans-serif;font-size:16px;background-repeat: no-repeat;background-position: center top;}
+body {background-color: $sci-bg;font-family: 'Raleway', sans-serif;font-size:18px;background-repeat: no-repeat;background-position: center top;}
 a {color:$sci-dark-link;text-decoration:underline;}
 header a {text-decoration:none;}
 .col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, 
@@ -152,7 +152,7 @@ header a {text-decoration:none;}
 	padding-left:40px;
 	padding-right:40px;
 	}
-h1.pane-title, .pane-content h1 {text-transform:uppercase;padding-bottom:9px;margin:40px 0 20px;margin-top:0;font-size:36px;}
+h1.pane-title, .pane-content h1 {text-transform:uppercase;padding-bottom:9px;margin:40px 0 20px;margin-top:0;font-size:30px;}
 #backtotop {background: url(https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/back-to-top.png) no-repeat center center;}
 
 // Mods to header and navbar
@@ -169,7 +169,6 @@ h1.pane-title, .pane-content h1 {text-transform:uppercase;padding-bottom:9px;mar
 .navbar-header {float:none;margin-bottom:15px;margin-top:5px;}
 .navbar-header img {max-width:200px;margin-left:15px;}
 .navbar-header > img.logo {padding-right:0;}
-section#block-superfish-1 {float:left;}
 section#block-views-exp-search-page-page {float:right;}
 #navbar-collapse {margin: 0 auto 0 auto;max-width:1200px;}
 header.navbar-default {background-color: $sci-dark-transparent;}
@@ -177,6 +176,7 @@ header#navbar {max-width:1920px;width:100%;padding:0;}
 #libraries-logo img {float:right;max-width:300px;margin-right:25px;margin-top:15px;}
 
 //Mods to superfish menu
+section#block-superfish-1 {float:left;font-size:20px;}
 #superfish {max-width:1200px;margin:auto;}
 #superfish-1 ul {left:15px;}
 div.sf-accordion-toggle.sf-style-none a {border:0 !important;margin-left:15px;}
