@@ -5979,7 +5979,7 @@ header.navbar-default {
   background-color: rgba(10, 40, 66, 0.9); }
 
 header#navbar {
-  max-width: 1900px;
+  max-width: 1920px;
   width: 100%;
   padding: 0; }
 
@@ -6179,7 +6179,7 @@ body.html.front > footer.footer {
   margin-top: -40px; }
 
 div.region.region-content {
-  max-width: 1900px;
+  max-width: 1920px;
   margin: auto; }
 
 div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {
@@ -6191,7 +6191,7 @@ div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {
 
 .main-container {
   background-color: #fff;
-  margin-top: 50px;
+  margin-top: 45px;
   padding: 40px; }
 
 .panel-panel.left.col-sm-3 {
