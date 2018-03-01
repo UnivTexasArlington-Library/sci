@@ -6917,7 +6917,7 @@ a.icon-after .glyphicon {
 
 .sf-menu.sf-style-none {
   float: left;
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
   padding: 0; }
 
 .sf-menu.sf-style-none.sf-navbar {
