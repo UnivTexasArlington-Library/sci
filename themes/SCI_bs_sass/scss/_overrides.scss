@@ -261,7 +261,7 @@ h1.page-header {border:0;text-transform:uppercase;}
 h2.pane-title {margin-left: 15px;}
 .bootstrap-threecol-stacked > div:nth-child(2) {background-color:$sci-white;padding:70px 30px;position:relative;top:-170px;}
 .view.view-about-teaser.view-id-about_teaser.view-display-id-block {padding-top:40px;}
-.field-content {padding-bottom:15px;}
+.field-content, .panel-display, .panel-flexible {padding-bottom:15px;}
 
 
 // Mods to screen sizes < 768px

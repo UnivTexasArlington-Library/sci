@@ -6221,7 +6221,7 @@ h2.pane-title {
 .view.view-about-teaser.view-id-about_teaser.view-display-id-block {
   padding-top: 40px; }
 
-.field-content {
+.field-content, .panel-display, .panel-flexible {
   padding-bottom: 15px; }
 
 @media (max-width: 767px) {
