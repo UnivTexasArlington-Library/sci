@@ -226,7 +226,7 @@ ul#facetapi-facet-search-apisearch-node-block-field-item-type {padding-left:0;fo
 #block-views-about-teaser-block {color: $sci-white;}
 
 // Mods to about teaser
-.teaser-bg {height:280px;background-color:$sci-dark;position:relative;top:715px;}
+.teaser-bg {height:280px;background-color:$sci-dark;position:relative;top:715px;max-width:1920px;margin:auto;}
 .pane-about-teaser {min-height:360px;}
 .view-about-teaser {color: $sci-white;max-width:1200px;margin:20px auto;}
 .view-about-teaser p {margin: 0 -20px;}

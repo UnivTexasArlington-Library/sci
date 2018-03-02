@@ -6112,7 +6112,9 @@ ul#facetapi-facet-search-apisearch-node-block-field-item-type {
   height: 280px;
   background-color: #092a45;
   position: relative;
-  top: 715px; }
+  top: 715px;
+  max-width: 1920px;
+  margin: auto; }
 
 .pane-about-teaser {
   min-height: 360px; }
