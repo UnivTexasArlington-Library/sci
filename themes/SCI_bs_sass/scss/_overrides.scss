@@ -161,7 +161,7 @@ h1.pane-title, .pane-content h1 {text-transform:uppercase;padding-bottom:9px;mar
 .navbar-brand {padding:0;font-size:inherit;}
 .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {margin-left:0;}
 .navbar-brand:hover #topname {border-bottom:1px solid $sci-light-link;}
-#bottomname {font-size: 14px;}
+#bottomname {font-size: 15px;}
 .navbar-default {border:0;}
 .navbar-default .navbar-brand {color:#fff;}
 .navbar-default .navbar-brand:hover {color:$sci-light-link;}
@@ -259,6 +259,7 @@ div.panel-display.panel-3col-33-stacked.clearfix div.center-wrapper {max-width:1
 .panel-panel.left.col-sm-3 {border-right: 1px solid $sci-bg;min-height:200px;}
 h1.page-header {border:0;text-transform:uppercase;}
 h2.pane-title {margin-left: 15px;}
+.view-content h3 {margin-left:15px;}
 .bootstrap-threecol-stacked > div:nth-child(2) {background-color:$sci-white;padding:70px 30px;position:relative;top:-170px;}
 .view.view-about-teaser.view-id-about_teaser.view-display-id-block {padding-top:40px;}
 .field-content, .panel-display, .panel-flexible {padding-bottom:15px;}

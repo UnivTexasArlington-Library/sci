@@ -5939,7 +5939,7 @@ h1.pane-title, .pane-content h1 {
   border-bottom: 1px solid #f5d300; }
 
 #bottomname {
-  font-size: 14px; }
+  font-size: 15px; }
 
 .navbar-default {
   border: 0; }
@@ -6210,6 +6210,9 @@ h1.page-header {
   text-transform: uppercase; }
 
 h2.pane-title {
+  margin-left: 15px; }
+
+.view-content h3 {
   margin-left: 15px; }
 
 .bootstrap-threecol-stacked > div:nth-child(2) {
@@ -6926,7 +6929,7 @@ a.icon-after .glyphicon {
   margin-right: -.25em; }
 
 a > .sf-sub-indicator, span.nolink > .sf-sub-indicator {
-  top: 1.1em; }
+  top: 1em; }
 
 .sf-menu.sf-style-none {
   float: left;
