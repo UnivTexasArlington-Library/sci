@@ -6332,6 +6332,9 @@ h2.pane-title {
     margin-top: 20px; }
 
   #bottom-image {
+    display: none; }
+
+  .flex-control-nav {
     display: none; } }
 .flexslider .flex-direction-nav a {
   display: block;
