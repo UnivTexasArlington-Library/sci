@@ -6227,6 +6227,10 @@ h2.pane-title {
 .field-content, .panel-display, .panel-flexible {
   padding-bottom: 15px; }
 
+.pagination > .active > span {
+  background-color: #092a45;
+  border-color: #092a45; }
+
 @media (max-width: 767px) {
   body {
     background-size: 100%;

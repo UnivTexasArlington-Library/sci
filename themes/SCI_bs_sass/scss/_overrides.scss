@@ -263,6 +263,7 @@ h2.pane-title {margin-left: 15px;}
 .bootstrap-threecol-stacked > div:nth-child(2) {background-color:$sci-white;padding:70px 30px;position:relative;top:-170px;}
 .view.view-about-teaser.view-id-about_teaser.view-display-id-block {padding-top:40px;}
 .field-content, .panel-display, .panel-flexible {padding-bottom:15px;}
+.pagination > .active > span {background-color: $sci-dark; border-color: $sci-dark;}
 
 
 // Mods to screen sizes < 768px
