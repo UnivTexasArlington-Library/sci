@@ -6318,7 +6318,7 @@ h2.pane-title {
   .panel-panel.bottom.col-sm-12 {
     font-size: 25px; }
 
-  .front div.panel-panel.left.col-sm-4 {
+  .front div.panel-panel.col-sm-4 {
     padding-left: 15px;
     padding-right: 15px; } }
 @media (max-width: 767px) {
