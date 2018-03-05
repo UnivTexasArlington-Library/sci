@@ -6292,6 +6292,9 @@ h2.pane-title {
     font-size: inherit;
     margin: 5px auto auto auto; }
 
+  #edit-submit-search-page {
+    margin-top: 5px; }
+
   #views-exposed-form-search-page-home-page {
     margin: auto; }
 
