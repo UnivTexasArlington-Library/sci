@@ -266,9 +266,9 @@ h2.pane-title {margin-left: 15px;}
 .pagination > .active > span {background-color: $sci-dark; border-color: $sci-dark;}
 
 
-// Mods to screen sizes < 768px
+// Mods to screen sizes < 992px
 @media (max-width: $screen-sm-max) {
-	body {background-size:100%;background-position:center 10%;}
+	/*body {background-size:100%;background-position:center 10%;}*/
 	header.navbar-default {background-color:$sci-dark;}
 	.navbar-default .navbar-toggle {border:0;}
 	.navbar-header img {max-width:150px;}

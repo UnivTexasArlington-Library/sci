@@ -6234,10 +6234,7 @@ h2.pane-title {
   border-color: #092a45; }
 
 @media (max-width: 991px) {
-  body {
-    background-size: 100%;
-    background-position: center 10%; }
-
+  /*body {background-size:100%;background-position:center 10%;}*/
   header.navbar-default {
     background-color: #092a45; }
 
