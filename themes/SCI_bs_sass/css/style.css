@@ -6248,8 +6248,14 @@ h2.pane-title {
     font-size: 175%;
     padding-top: 2px; }
 
+  #wordmark {
+    padding-left: 25px; }
+
   #bottomname {
     font-size: 11px; }
+
+  #libraries-logo {
+    clear: both; }
 
   #libraries-logo img {
     max-width: 250px;
@@ -6310,7 +6316,10 @@ h2.pane-title {
   button.navbar-toggle {
     position: absolute;
     top: 60px;
-    right: 0; } }
+    right: 0; }
+
+  .panel-panel.bottom.col-sm-12 {
+    font-size: 25px; } }
 @media (max-width: 767px) {
   body {
     background-position: center 5%; }
@@ -6319,7 +6328,7 @@ h2.pane-title {
     padding: 0; }
 
   .view-about-teaser {
-    min-height: 450px; }
+    min-height: 475px; }
 
   .view.view-about-teaser.view-id-about_teaser.view-display-id-block {
     padding: 40px; }
