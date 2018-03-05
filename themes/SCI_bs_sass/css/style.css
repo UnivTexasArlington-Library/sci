@@ -6289,8 +6289,7 @@ h2.pane-title {
 
   input#edit-search-api-views-fulltext {
     height: auto;
-    font-size: inherit;
-    margin: 5px auto auto auto; }
+    margin: 2px auto auto auto; }
 
   #edit-submit-search-page {
     margin-top: 5px; }
@@ -6300,7 +6299,8 @@ h2.pane-title {
 
   #views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper > div > div > input {
     height: 36px;
-    font-size: 16px; }
+    font-size: 16px;
+    margin: auto; }
 
   #views-exposed-form-search-page-home-page > div > div > div > div.views-exposed-widget.views-submit-button {
     right: 12.45%; }
