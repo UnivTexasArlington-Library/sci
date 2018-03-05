@@ -6320,7 +6320,10 @@ h2.pane-title {
 
   .front div.panel-panel.col-sm-4 {
     padding-left: 15px;
-    padding-right: 15px; } }
+    padding-right: 15px; }
+
+  footer.footer {
+    font-size: 14px; } }
 @media (max-width: 767px) {
   body {
     background-position: center 5%; }
