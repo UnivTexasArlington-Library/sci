@@ -5915,9 +5915,7 @@ h1.pane-title, .pane-content h1 {
 
 #wordmark {
   float: left;
-  color: #fff;
-  padding-left: 15px;
-  padding-top: 2px; }
+  color: #fff; }
 
 #topname {
   text-transform: uppercase;
@@ -6244,7 +6242,7 @@ h2.pane-title {
     border: 0; }
 
   .navbar-header img {
-    max-width: 150px; }
+    max-width: 140px; }
 
   #topname {
     font-size: 160%;
