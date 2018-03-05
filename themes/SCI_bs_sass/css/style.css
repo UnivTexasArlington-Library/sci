@@ -5917,6 +5917,10 @@ h1.pane-title, .pane-content h1 {
   float: left;
   color: #fff; }
 
+.front #wordmark {
+  padding-left: 15px;
+  padding-top: 2px; }
+
 #topname {
   text-transform: uppercase;
   border-bottom: 1px solid #fff;
