@@ -6255,11 +6255,12 @@ h2.pane-title {
     font-size: 160%;
     padding-top: 10px; }
 
-  #wordmark, .front #wordmark {
+  #wordmark {
     padding-left: 25px; }
 
   .front #wordmark {
-    padding-top: 0; }
+    padding-left: 30px;
+    padding-top: 2px; }
 
   #bottomname {
     font-size: 11px; }
