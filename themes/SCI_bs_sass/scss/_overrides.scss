@@ -267,7 +267,7 @@ h2.pane-title {margin-left: 15px;}
 
 
 // Mods to screen sizes < 768px
-@media (max-width: $screen-xs-max) {
+@media (max-width: $screen-sm-max) {
 	body {background-size:100%;background-position:center 10%;}
 	header.navbar-default {background-color:$sci-dark;}
 	.navbar-default .navbar-toggle {border:0;}
@@ -292,9 +292,7 @@ h2.pane-title {margin-left: 15px;}
 	
 // Mods to screen sizes 479px and lower
 @media (max-width: $screen-xs-max) {
-	.navbar-header img {max-width:120px;}
-	#libraries-logo img {max-width:220px;margin-right:350px;}
-	body {background-position:center 5%;}
+		body {background-position:center 5%;}
 	.main-container {padding:0;}
 	.view-about-teaser {min-height:450px;}
 	.view.view-about-teaser.view-id-about_teaser.view-display-id-block {padding:40px;}

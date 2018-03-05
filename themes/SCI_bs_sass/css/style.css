@@ -6233,7 +6233,7 @@ h2.pane-title {
   background-color: #092a45;
   border-color: #092a45; }
 
-@media (max-width: 767px) {
+@media (max-width: 991px) {
   body {
     background-size: 100%;
     background-position: center 10%; }
@@ -6308,13 +6308,6 @@ h2.pane-title {
     top: 60px;
     right: 0; } }
 @media (max-width: 767px) {
-  .navbar-header img {
-    max-width: 120px; }
-
-  #libraries-logo img {
-    max-width: 220px;
-    margin-right: 350px; }
-
   body {
     background-position: center 5%; }
 
