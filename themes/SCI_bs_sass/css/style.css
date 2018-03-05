@@ -6005,6 +6005,9 @@ ul.sf-menu.sf-accordion.sf-expanded, ul.sf-menu.sf-accordion li.sf-expanded {
   left: 15px !important;
   top: 15px !important; }
 
+ul.sf-menu.sf-accordion, ul.sf-menu.sf-accordion ul, ul.sf-menu.sf-accordion li {
+  width: 88%; }
+
 #edit-submit-search-page {
   margin-top: -7px;
   margin-left: -19px; }

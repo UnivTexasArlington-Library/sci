@@ -181,6 +181,7 @@ section#block-superfish-1 {float:left;font-size:18px;}
 #superfish-1 ul {left:15px;}
 div.sf-accordion-toggle.sf-style-none a {border:0 !important;margin-left:15px;}
 ul.sf-menu.sf-accordion.sf-expanded, ul.sf-menu.sf-accordion li.sf-expanded {left:15px !important;top:15px !important;}
+ul.sf-menu.sf-accordion, ul.sf-menu.sf-accordion ul, ul.sf-menu.sf-accordion li {width:88%}
 
 // Mods to search boxes, buttons
 #edit-submit-search-page {margin-top:-7px;margin-left:-19px;}
