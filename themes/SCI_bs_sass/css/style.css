@@ -6248,7 +6248,7 @@ h2.pane-title {
   .navbar-header img {
     max-width: 140px; }
 
-  .navbar-header .front img {
+  .front .navbar-header img {
     max-width: 150px; }
 
   #topname {
