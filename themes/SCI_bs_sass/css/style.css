@@ -6141,7 +6141,7 @@ ul#facetapi-facet-search-apisearch-node-block-field-item-type {
   text-align: right;
   margin: auto; }
 
-div.panel-pane.pane-views-panes.pane-home-blocks-panel-pane-1 > div > div > div > div > img {
+div.panel-pane.pane-views-panes.pane-home-blocks-panel-pane-1 > div > div > div > div > a > img {
   margin: auto; }
 
 .front .main-container {
@@ -6254,7 +6254,8 @@ h2.pane-title {
   #libraries-logo img {
     max-width: 250px;
     float: left;
-    margin-left: 20px; }
+    margin-left: 20px;
+    margin-top: 5px; }
 
   .highlighted.jumbotron {
     margin-top: 0; }
@@ -6276,6 +6277,9 @@ h2.pane-title {
 
   .view-about-teaser p {
     margin: 0 20px; }
+
+  .more-link {
+    margin: auto 20px; }
 
   .input#edit-search-api-views-fulltext {
     height: auto;
