@@ -6316,7 +6316,11 @@ h2.pane-title {
     right: 0; }
 
   .panel-panel.bottom.col-sm-12 {
-    font-size: 25px; } }
+    font-size: 25px; }
+
+  .front div.panel-panel.left.col-sm-4 {
+    padding-left: 15px;
+    padding-right: 15px; } }
 @media (max-width: 767px) {
   body {
     background-position: center 5%; }
