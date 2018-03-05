@@ -6006,7 +6006,7 @@ ul.sf-menu.sf-accordion.sf-expanded, ul.sf-menu.sf-accordion li.sf-expanded {
   top: 15px !important; }
 
 #edit-submit-search-page {
-  margin-top: 4px;
+  margin-top: -7px;
   margin-left: -19px; }
 
 #edit-search-api-views-fulltext-wrapper label {
@@ -6297,14 +6297,9 @@ h2.pane-title {
   #views-exposed-form-search-page-home-page {
     display: none; }
 
-  /*
-  #edit-submit-search-page {margin-top:5px;}
-  #views-exposed-form-search-page-home-page {margin:auto;}
-  #views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper > div > div > input {height:36px;font-size:16px;margin:-5px auto auto auto;}
-  #views-exposed-form-search-page-home-page > div > div > div > div.views-exposed-widget.views-submit-button {right:12.45%;}
-  #edit-submit-search-page-home {background-size:30px 30px;}
-  #edit-submit-search-page-home.btn.btn-primary.form-submit {width:36px;height:36px;}
-  */
+  #edit-submit-search-page {
+    margin-top: 4px; }
+
   .navbar-header.home {
     min-height: 100px; }
 
