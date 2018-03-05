@@ -268,16 +268,16 @@ h2.pane-title {margin-left: 15px;}
 
 // Mods to screen sizes < 992px
 @media (max-width: $screen-sm-max) {
-	/*body {background-size:100%;background-position:center 10%;}*/
 	header.navbar-default {background-color:$sci-dark;}
 	.navbar-default .navbar-toggle {border:0;}
 	.navbar-header img {max-width:150px;}
-	#topname {font-size:160%;padding-top:2px;}
+	#topname {font-size:160%;padding-top:10px;}
 	#wordmark {padding-left:25px;}
 	#bottomname {font-size:11px;}
 	#libraries-logo {clear:both;}
 	#libraries-logo img {max-width:250px;float:left;margin-left:20px;margin-top:5px;}
 	.highlighted.jumbotron{margin-top:0;}
+	.jumbotron {padding-top:0;}
 	.region.region-highlighted {max-width:80%;margin:auto;}
 	.teaser-bg {height:auto;}
 	.center-wrapper {margin:auto;}
@@ -294,7 +294,7 @@ h2.pane-title {margin-left: 15px;}
 	.panel-panel.bottom.col-sm-12 {font-size:25px;}
 	}
 	
-// Mods to screen sizes 479px and lower
+// Mods to screen sizes 767px and lower
 @media (max-width: $screen-xs-max) {
 	body {background-position:center 5%;}
 	.main-container {padding:0;}

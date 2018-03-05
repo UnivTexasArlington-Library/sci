@@ -6234,7 +6234,6 @@ h2.pane-title {
   border-color: #092a45; }
 
 @media (max-width: 991px) {
-  /*body {background-size:100%;background-position:center 10%;}*/
   header.navbar-default {
     background-color: #092a45; }
 
@@ -6246,7 +6245,7 @@ h2.pane-title {
 
   #topname {
     font-size: 160%;
-    padding-top: 2px; }
+    padding-top: 10px; }
 
   #wordmark {
     padding-left: 25px; }
@@ -6265,6 +6264,9 @@ h2.pane-title {
 
   .highlighted.jumbotron {
     margin-top: 0; }
+
+  .jumbotron {
+    padding-top: 0; }
 
   .region.region-highlighted {
     max-width: 80%;
