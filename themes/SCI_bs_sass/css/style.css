@@ -6328,7 +6328,9 @@ h2.pane-title {
     padding-top: 0; }
 
   .view-about-teaser {
-    min-height: 475px; }
+    min-height: 475px;
+    position: relative;
+    top: -80px; }
 
   .view.view-about-teaser.view-id-about_teaser.view-display-id-block {
     padding: 40px; }
