@@ -277,7 +277,6 @@ h2.pane-title {margin-left: 15px;}
 	#libraries-logo {clear:both;}
 	#libraries-logo img {max-width:250px;float:left;margin-left:20px;margin-top:5px;}
 	.highlighted.jumbotron{margin-top:0;}
-	.jumbotron {padding-top:0;}
 	.region.region-highlighted {max-width:80%;margin:auto;}
 	.teaser-bg {height:auto;}
 	.center-wrapper {margin:auto;}
@@ -298,6 +297,7 @@ h2.pane-title {margin-left: 15px;}
 @media (max-width: $screen-xs-max) {
 	body {background-position:center 5%;}
 	.main-container {padding:0;}
+	.jumbotron {padding-top:0;}
 	.view-about-teaser {min-height:475px;}
 	.view.view-about-teaser.view-id-about_teaser.view-display-id-block {padding:40px;}
 	#backtotop {background: url(https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/back-to-top-sm.png) no-repeat center center;}
