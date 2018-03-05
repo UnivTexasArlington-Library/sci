@@ -229,7 +229,6 @@ ul#facetapi-facet-search-apisearch-node-block-field-item-type {padding-left:0;fo
 .teaser-bg {height:280px;background-color:$sci-dark;position:relative;top:715px;max-width:1920px;margin:auto;}
 .pane-about-teaser {min-height:360px;}
 .view-about-teaser {color: $sci-white;max-width:1200px;margin:20px auto;}
-.view-about-teaser p {margin: 0 -20px;}
 .view-id-about_teaser a, .more-link a {color: $sci-light-link;text-decoration:underline;}
 #block-system-main > div > div.panel-panel.panel-col-top > div > div > div.pane-content > div > div > div > div {padding:20px 0;}
 #block-system-main > div > div.panel-panel.panel-col-top > div > div > div.pane-content > div > div > div > div > div > p {margin:30px auto 0 auto;max-width:1100px;line-height:24px;}
@@ -280,6 +279,7 @@ h2.pane-title {margin-left: 15px;}
 	.teaser-bg {height:auto;}
 	.center-wrapper {margin:auto;}
 	.view-about-teaser {margin:auto -25px;padding:20px;background-color:$sci-dark;}
+	.view-about-teaser p {margin: 0 20px;}
 	.input#edit-search-api-views-fulltext {height:auto;font-size:inherit;margin-top:auto;margin:auto;}
 	#views-exposed-form-search-page-home-page {margin:auto;}
 	#views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper > div > div > input {height:36px;font-size:16px;}
