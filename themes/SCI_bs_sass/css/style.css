@@ -6313,7 +6313,15 @@ h2.pane-title {
 
   .front div.panel-panel.col-sm-4 {
     padding-left: 15px;
-    padding-right: 15px; } }
+    padding-right: 15px; }
+
+  footer.footer {
+    font-size: 14px; }
+
+  div.region.region-footer > section#block-block-1.block-block.clearfix > div.row > div:nth-child(2) {
+    border: 0;
+    padding-top: 10px;
+    padding-left: 38px; } }
 @media (max-width: 767px) {
   body {
     background-position: center 5%; }
@@ -6352,15 +6360,7 @@ h2.pane-title {
     display: none; }
 
   .flex-control-nav {
-    display: none; }
-
-  footer.footer {
-    font-size: 14px; }
-
-  div.region.region-footer > section#block-block-1.block-block.clearfix > div.row > div:nth-child(2) {
-    border: 0;
-    padding-top: 10px;
-    padding-left: 38px; } }
+    display: none; } }
 .flexslider .flex-direction-nav a {
   display: block;
   min-height: 76px; }

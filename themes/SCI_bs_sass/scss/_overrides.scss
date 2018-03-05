@@ -292,7 +292,8 @@ h2.pane-title {margin-left: 15px;}
 	button.navbar-toggle {position:absolute;top:60px;right:0;}
 	.panel-panel.bottom.col-sm-12 {font-size:25px;}
 	.front div.panel-panel.col-sm-4 {padding-left:15px;padding-right:15px;}
-
+			footer.footer {font-size:14px;}
+	div.region.region-footer > section#block-block-1.block-block.clearfix > div.row > div:nth-child(2) {border:0;padding-top:10px;padding-left:38px;}
 	}
 	
 // Mods to screen sizes 767px and lower
@@ -308,8 +309,7 @@ h2.pane-title {margin-left: 15px;}
 	h1.page-header, h1.pane-title, h2.pane-title {font-size:150%;margin-top:20px;}
 	#bottom-image {display:none;}
 	.flex-control-nav {display:none;}
-		footer.footer {font-size:14px;}
-	div.region.region-footer > section#block-block-1.block-block.clearfix > div.row > div:nth-child(2) {border:0;padding-top:10px;padding-left:38px;}
+
  }
  
 // Mods to Flexslider
