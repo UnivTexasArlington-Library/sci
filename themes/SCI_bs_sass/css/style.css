@@ -6295,7 +6295,7 @@ h2.pane-title {
     margin: 7px auto auto auto;
     font-size: 12px; }
 
-  button#edit-submit-search-page {
+  #edit-submit-search-page.btn.btn-primary.form-submit {
     width: 33px;
     height: 33px; }
 
