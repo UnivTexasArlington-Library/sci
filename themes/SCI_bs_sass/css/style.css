@@ -6292,7 +6292,8 @@ h2.pane-title {
 
   input#edit-search-api-views-fulltext {
     height: auto;
-    margin: 7px auto auto auto; }
+    margin: 7px auto auto auto;
+    font-size: 12px; }
 
   #views-exposed-form-search-page-home-page {
     display: none; }
