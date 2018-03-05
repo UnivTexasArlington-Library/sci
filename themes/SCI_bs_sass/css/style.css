@@ -6326,6 +6326,9 @@ h2.pane-title {
   body {
     background-position: center 5%; }
 
+  #wordmark {
+    padding-left: 15px; }
+
   #libraries-logo {
     clear: both; }
 

@@ -299,6 +299,7 @@ h2.pane-title {margin-left: 15px;}
 // Mods to screen sizes 767px and lower
 @media (max-width: $screen-xs-max) {
 	body {background-position:center 5%;}
+	#wordmark {padding-left:15px;}
 	#libraries-logo {clear:both;}
 	#libraries-logo img {max-width:250px;float:left;margin-left:20px;margin-top:5px;}
 	.main-container {padding:0;}
