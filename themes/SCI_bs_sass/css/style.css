@@ -6287,7 +6287,7 @@ h2.pane-title {
   .more-link {
     margin: auto 20px; }
 
-  .input#edit-search-api-views-fulltext {
+  input#edit-search-api-views-fulltext {
     height: auto;
     font-size: inherit;
     margin: 5px auto auto auto; }
