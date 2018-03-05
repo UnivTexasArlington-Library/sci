@@ -6256,15 +6256,6 @@ h2.pane-title {
   #bottomname {
     font-size: 11px; }
 
-  #libraries-logo {
-    clear: both; }
-
-  #libraries-logo img {
-    max-width: 250px;
-    float: left;
-    margin-left: 20px;
-    margin-top: 5px; }
-
   .highlighted.jumbotron {
     margin-top: 0; }
 
@@ -6332,6 +6323,15 @@ h2.pane-title {
 @media (max-width: 767px) {
   body {
     background-position: center 5%; }
+
+  #libraries-logo {
+    clear: both; }
+
+  #libraries-logo img {
+    max-width: 250px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 5px; }
 
   .main-container {
     padding: 0; }
