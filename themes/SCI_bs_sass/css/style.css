@@ -6244,8 +6244,8 @@ h2.pane-title {
   .navbar-header img {
     max-width: 150px; }
 
-  .navbar-header > div#wordmark > div#topname {
-    font-size: 175%;
+  #topname {
+    font-size: 160%;
     padding-top: 2px; }
 
   #wordmark {
