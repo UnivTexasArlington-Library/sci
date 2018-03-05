@@ -6290,8 +6290,7 @@ h2.pane-title {
   .input#edit-search-api-views-fulltext {
     height: auto;
     font-size: inherit;
-    margin-top: auto;
-    margin: auto; }
+    margin: 5px auto auto auto; }
 
   #views-exposed-form-search-page-home-page {
     margin: auto; }
