@@ -6265,6 +6265,9 @@ h2.pane-title {
   #bottomname {
     font-size: 11px; }
 
+  .front #bottomname {
+    padding-top: 2px; }
+
   .highlighted.jumbotron {
     margin-top: 0; }
 
