@@ -6323,7 +6323,12 @@ h2.pane-title {
     padding-right: 15px; }
 
   footer.footer {
-    font-size: 14px; } }
+    font-size: 14px; }
+
+  div.region.region-footer > section#block-block-1.block-block.clearfix > div.row > div:nth-child(2) {
+    border: 0;
+    padding-top: 10px;
+    padding-left: 38px; } }
 @media (max-width: 767px) {
   body {
     background-position: center 5%; }
