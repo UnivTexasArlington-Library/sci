@@ -274,7 +274,8 @@ h2.pane-title {margin-left: 15px;}
 	.navbar-default .navbar-toggle {border:0;}
 	.navbar-header img {max-width:140px;}
 	#topname {font-size:160%;padding-top:10px;}
-	#wordmark {padding-left:25px;}
+	#wordmark, .front #wordmark {padding-left:25px;}
+	.front #wordmark {padding-top:0;}
 	#bottomname {font-size:11px;}
 	.highlighted.jumbotron{margin-top:0;}
 	.region.region-highlighted {max-width:80%;margin:auto;}

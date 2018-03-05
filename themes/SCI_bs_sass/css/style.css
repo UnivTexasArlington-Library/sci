@@ -6252,8 +6252,11 @@ h2.pane-title {
     font-size: 160%;
     padding-top: 10px; }
 
-  #wordmark {
+  #wordmark, .front #wordmark {
     padding-left: 25px; }
+
+  .front #wordmark {
+    padding-top: 0; }
 
   #bottomname {
     font-size: 11px; }
