@@ -6010,9 +6010,6 @@ ul.sf-menu.sf-accordion.sf-expanded, ul.sf-menu.sf-accordion li.sf-expanded {
 ul.sf-menu.sf-accordion, ul.sf-menu.sf-accordion ul, ul.sf-menu.sf-accordion li {
   width: 88%; }
 
-.sf-depth-1.active {
-  color: #f5d300; }
-
 #edit-submit-search-page {
   margin-top: -7px;
   margin-left: -19px; }
@@ -7044,7 +7041,8 @@ a > .sf-sub-indicator, span.nolink > .sf-sub-indicator {
   text-decoration: none; }
 
 .sf-menu.sf-style-none li.active-trail > a {
-  border-bottom: 0; }
+  border-bottom: 0;
+  color: #f5d300; }
 
 .sf-menu.sf-style-none.sf-navbar li ul {
   /*background-color: #3270c5;*/
