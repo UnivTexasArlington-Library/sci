@@ -162,7 +162,7 @@ h1.pane-title, .pane-content h1 {text-transform:uppercase;padding-bottom:9px;mar
 .navbar-brand {padding:0;font-size:inherit;}
 .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {margin-left:0;}
 .navbar-brand:hover #topname {border-bottom:1px solid $sci-light-link;}
-#bottomname {font-size: 15px;}
+#bottomname {font-size: 15px;line-height:20px;}
 .navbar-default {border:0;}
 .navbar-default .navbar-brand {color:#fff;}
 .navbar-default .navbar-brand:hover {color:$sci-light-link;}

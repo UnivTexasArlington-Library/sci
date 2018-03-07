@@ -5941,7 +5941,8 @@ h1.pane-title, .pane-content h1 {
   border-bottom: 1px solid #f5d300; }
 
 #bottomname {
-  font-size: 15px; }
+  font-size: 15px;
+  line-height: 20px; }
 
 .navbar-default {
   border: 0; }
