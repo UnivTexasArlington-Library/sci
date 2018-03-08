@@ -5911,7 +5911,7 @@ h1.pane-title, .pane-content h1 {
   font-size: 30px; }
 
 #backtotop {
-  background: url(https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/back-to-top.png) no-repeat center center; }
+  background: url(https://library.uta.edu/sci/sites/library.uta.edu.sci/files/back-to-top.png) no-repeat center center; }
 
 #wordmark {
   float: left;
@@ -6032,7 +6032,7 @@ form#views-exposed-form-search-page-page .views-exposed-widgets {
   border: 0; }
 
 #edit-submit-search-page {
-  background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/search.png");
+  background-image: url("https://library.uta.edu/sci/sites/library.uta.edu.sci/files/search.png");
   background-repeat: no-repeat;
   background-size: 25px 25px;
   background-position: center center; }
@@ -6077,7 +6077,7 @@ section#block-views-exp-search-page-page {
   height: 75px; }
 
 #edit-submit-search-page-home {
-  background-image: url("https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/search.png");
+  background-image: url("https://library.uta.edu/sci/sites/library.uta.edu.sci/files/search.png");
   background-repeat: no-repeat;
   background-size: 50px 50px;
   background-position: center center;
@@ -6363,7 +6363,7 @@ h2.pane-title {
     padding: 40px; }
 
   #backtotop {
-    background: url(https://library-test.uta.edu/sci/sites/library-test.uta.edu.sci/files/back-to-top-sm.png) no-repeat center center; }
+    background: url(https://library.uta.edu/sci/sites/library.uta.edu.sci/files/back-to-top-sm.png) no-repeat center center; }
 
   h1.page-header, h1.pane-title, h2.pane-title {
     font-size: 150%;
