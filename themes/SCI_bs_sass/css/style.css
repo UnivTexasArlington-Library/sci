@@ -5968,7 +5968,7 @@ h1.pane-title, .pane-content h1 {
 .navbar-header > img.logo {
   padding-right: 0; }
 
-section#block-views-exp-search-page-page {
+section#block-views-exp-search-site-page {
   float: right; }
 
 #navbar-collapse {
@@ -6037,7 +6037,7 @@ form#views-exposed-form-search-site-page .views-exposed-widgets {
   background-size: 25px 25px;
   background-position: center center; }
 
-section#block-views-exp-search-page-page {
+section#block-views-exp-search-site-page {
   margin-top: 5px; }
 
 .btn-primary {
