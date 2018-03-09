@@ -6050,18 +6050,18 @@ section#block-views-exp-search-page-page {
 .views-exposed-form .views-exposed-widget {
   padding-right: 0; }
 
-#views-exposed-form-search-page-home-page > div > div > div > div.views-exposed-widget.views-submit-button {
+#views-exposed-form-search-site-home-page > div > div > div > div.views-exposed-widget.views-submit-button {
   position: absolute;
   right: 61px; }
 
-#views-exposed-form-search-page-home-page {
+#views-exposed-form-search-site-home-page {
   margin: -10% auto auto auto; }
 
-#views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper {
+#views-exposed-form-search-site-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper {
   width: 100%;
   padding-top: 5px; }
 
-#views-exposed-form-search-page-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper > div > div > input {
+#views-exposed-form-search-site-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper > div > div > input {
   height: 75px;
   font-size: 20px; }
 
@@ -6304,7 +6304,7 @@ h2.pane-title {
     width: 33px;
     height: 33px; }
 
-  #views-exposed-form-search-page-home-page {
+  #views-exposed-form-search-site-home-page {
     display: none; }
 
   #edit-submit-search-page {
