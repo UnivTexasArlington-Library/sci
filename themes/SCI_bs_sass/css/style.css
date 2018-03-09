@@ -6359,6 +6359,9 @@ h2.pane-title {
     position: relative;
     top: -80px; }
 
+  .view-about-teaser p {
+    margin: 0; }
+
   .view.view-about-teaser.view-id-about_teaser.view-display-id-block {
     padding: 40px; }
 
