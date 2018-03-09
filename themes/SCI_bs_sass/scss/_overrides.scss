@@ -186,13 +186,13 @@ ul.sf-menu.sf-accordion.sf-expanded, ul.sf-menu.sf-accordion li.sf-expanded {lef
 
 
 // Mods to search boxes, buttons
-#edit-submit-search-page {margin-top:-7px;margin-left:-19px;}
+#edit-submit-search-site {margin-top:-7px;margin-left:-19px;}
 #edit-search-api-views-fulltext-wrapper label {display:none;}
-#edit-submit-search-page.btn.btn-primary.form-submit {width:35px; height:35px;color:transparent;}
+#edit-submit-search-site.btn.btn-primary.form-submit {width:35px; height:35px;color:transparent;}
 #edit-search-api-views-fulltext {margin-top:-5px;}
 #views-exposed-form-search-site-page > div > div > div > div#edit-search-api-views-fulltext-wrapper.views-exposed-widget.views-widget-filter-search_api_views_fulltext {padding:0.4em 1em 0 0;}
 form#views-exposed-form-search-site-page .views-exposed-widgets {border:0;} 
-#edit-submit-search-page { 
+#edit-submit-search-site { 
 	background-image: url("https://library.uta.edu/sci/sites/library.uta.edu.sci/files/search.png");
     background-repeat: no-repeat;
     background-size: 25px 25px;
@@ -206,10 +206,10 @@ section#block-views-exp-search-page-page {margin-top:5px;}
 #views-exposed-form-search-site-home-page {margin:-10% auto auto auto;}
 #views-exposed-form-search-site-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper {width:100%; padding-top:5px;}
 #views-exposed-form-search-site-home-page > div > div > div > div#edit-search-api-views-fulltext-wrapper > div > div > input {height:75px;font-size:20px;}
-#edit-submit-search-page-home {margin-top:-8px;}
-#edit-submit-search-page-home {margin-top:-9px;margin-left:0;}
-#edit-submit-search-page-home.btn.btn-primary.form-submit {width:75px; height:75px;}
-#edit-submit-search-page-home { 
+#edit-submit-search-site-home {margin-top:-8px;}
+#edit-submit-search-site-home {margin-top:-9px;margin-left:0;}
+#edit-submit-search-site-home.btn.btn-primary.form-submit {width:75px; height:75px;}
+#edit-submit-search-site-home { 
 	background-image: url("https://library.uta.edu/sci/sites/library.uta.edu.sci/files/search.png");
     background-repeat: no-repeat;
     background-size: 50px 50px;
@@ -289,9 +289,9 @@ h2.pane-title {margin-left: 15px;}
 	.view-about-teaser p {margin: 0 20px;}
 	.more-link {margin:auto 20px;}
 	input#edit-search-api-views-fulltext {height:auto;margin:7px auto auto auto;font-size:12px;}
-	#edit-submit-search-page.btn.btn-primary.form-submit {width:33px;height:33px;}
+	#edit-submit-search-site.btn.btn-primary.form-submit {width:33px;height:33px;}
 	#views-exposed-form-search-site-home-page {display:none;}
-	#edit-submit-search-page {margin-top:4px;}
+	#edit-submit-search-site {margin-top:4px;}
 	.navbar-header.home {min-height:100px;}
 	button.navbar-toggle {position:absolute;top:60px;right:0;}
 	.panel-panel.bottom.col-sm-12 {font-size:25px;}

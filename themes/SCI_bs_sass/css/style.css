@@ -6010,14 +6010,14 @@ div.sf-accordion-toggle.sf-style-none a {
 ul.sf-menu.sf-accordion.sf-expanded, ul.sf-menu.sf-accordion li.sf-expanded {
   left: 15px !important; }
 
-#edit-submit-search-page {
+#edit-submit-search-site {
   margin-top: -7px;
   margin-left: -19px; }
 
 #edit-search-api-views-fulltext-wrapper label {
   display: none; }
 
-#edit-submit-search-page.btn.btn-primary.form-submit {
+#edit-submit-search-site.btn.btn-primary.form-submit {
   width: 35px;
   height: 35px;
   color: transparent; }
@@ -6031,7 +6031,7 @@ ul.sf-menu.sf-accordion.sf-expanded, ul.sf-menu.sf-accordion li.sf-expanded {
 form#views-exposed-form-search-site-page .views-exposed-widgets {
   border: 0; }
 
-#edit-submit-search-page {
+#edit-submit-search-site {
   background-image: url("https://library.uta.edu/sci/sites/library.uta.edu.sci/files/search.png");
   background-repeat: no-repeat;
   background-size: 25px 25px;
@@ -6065,18 +6065,18 @@ section#block-views-exp-search-page-page {
   height: 75px;
   font-size: 20px; }
 
-#edit-submit-search-page-home {
+#edit-submit-search-site-home {
   margin-top: -8px; }
 
-#edit-submit-search-page-home {
+#edit-submit-search-site-home {
   margin-top: -9px;
   margin-left: 0; }
 
-#edit-submit-search-page-home.btn.btn-primary.form-submit {
+#edit-submit-search-site-home.btn.btn-primary.form-submit {
   width: 75px;
   height: 75px; }
 
-#edit-submit-search-page-home {
+#edit-submit-search-site-home {
   background-image: url("https://library.uta.edu/sci/sites/library.uta.edu.sci/files/search.png");
   background-repeat: no-repeat;
   background-size: 50px 50px;
@@ -6300,14 +6300,14 @@ h2.pane-title {
     margin: 7px auto auto auto;
     font-size: 12px; }
 
-  #edit-submit-search-page.btn.btn-primary.form-submit {
+  #edit-submit-search-site.btn.btn-primary.form-submit {
     width: 33px;
     height: 33px; }
 
   #views-exposed-form-search-site-home-page {
     display: none; }
 
-  #edit-submit-search-page {
+  #edit-submit-search-site {
     margin-top: 4px; }
 
   .navbar-header.home {
