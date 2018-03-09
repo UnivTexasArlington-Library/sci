@@ -6025,10 +6025,10 @@ ul.sf-menu.sf-accordion.sf-expanded, ul.sf-menu.sf-accordion li.sf-expanded {
 #edit-search-api-views-fulltext {
   margin-top: -5px; }
 
-#views-exposed-form-search-site-page > div > div > div > div#edit-search-api-views-fulltext-wrapper.views-exposed-widget.views-widget-filter-search_api_views_fulltext {
+#views-exposed-form-search-site-panel-pane-1 > div > div > div > div#edit-search-api-views-fulltext-wrapper.views-exposed-widget.views-widget-filter-search_api_views_fulltext {
   padding: 0.4em 1em 0 0; }
 
-form#views-exposed-form-search-site-page .views-exposed-widgets {
+form#views-exposed-form-search-site-panel-pane-1 .views-exposed-widgets {
   border: 0; }
 
 #edit-submit-search-site {
