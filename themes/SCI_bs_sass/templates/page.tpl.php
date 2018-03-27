@@ -85,7 +85,7 @@
 <?php if (!empty($site_name)): ?>
          <a class="name navbar-brand" href="<?php print $front_page; ?>" title="<?php print t('To SCI archive home page'); ?>">
 		 <div id="wordmark">
-		 <div id="topname">archive</div>
+		 <div id="topname" style="font-size:100%;">archive<br />beta version</div>
 		<div id="bottomname">Society of Composers, Inc.</div></a>
 		</div>
 		<div id="libraries-logo"><a href="//library.uta.edu/"><img alt="UTA Libraries logo" src="/sci/sites/library.uta.edu.sci/files/uta-library-logo.png" /></a></div>
