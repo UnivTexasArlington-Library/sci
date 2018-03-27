@@ -82,7 +82,7 @@
 
       <?php if (!empty($site_name)): ?>
          <div id="wordmark">
-		 <div id="topname">archive</div>
+		 <div id="topname" style="font-size:125%;">archive<br />beta version</div>
 		<div id="bottomname">Society of Composers, Inc.</div>
 		</div>
 		<div id="libraries-logo"><a href="//library.uta.edu/"><img alt="UTA Libraries logo" src="/sci/sites/library.uta.edu.sci/files/uta-library-logo.png" /></a></div>
