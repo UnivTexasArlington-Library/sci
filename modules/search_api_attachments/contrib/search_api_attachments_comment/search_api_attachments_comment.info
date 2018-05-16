@@ -1,10 +1,11 @@
-name = Search API Attachments User Content
-description = "Extends the attachments indexing to file fields on nodes created by the indexed users."
+name = Search API Attachments Comment
+description = "Extends the attachments indexing to file fields in the comments."
+dependencies[] = comment
 dependencies[] = search_api_attachments
 core = 7.x
 package = Search
 
-files[] = includes/callback_attachments_user_content_settings.inc
+files[] = includes/callback_attachments_comment_settings.inc
 
 ; Information added by Drupal.org packaging script on 2018-05-02
 version = "7.x-1.13"
