@@ -62,7 +62,7 @@ class SearchApiAttachmentsAlterSettings extends SearchApiAbstractAlterCallback {
    *
    * @param object $file
    *   The file object.
-   * @param array $item
+   * @param object $item
    *   The search api item.
    * @param string $field_name
    *   The file name.
@@ -70,7 +70,7 @@ class SearchApiAttachmentsAlterSettings extends SearchApiAbstractAlterCallback {
    * @return bool
    *   TRUE is the file is allowed to be indexed, FALSE otherwise.
    */
-  public function isFileIndexable($file, array $item, $field_name = NULL) {
+  public function isFileIndexable($file, $item, $field_name = NULL) {
     // File entity bundle restriction.
     if (isset($this->options['excluded_file_entity_bundles'])) {
       if (!empty($this->options['excluded_file_entity_bundles'])) {
